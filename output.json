@@ -998,6 +998,9 @@
         "OVERLAY": {
             "LABEL": "Konfigurieren"
         }, 
+        "GIT": {
+            "TEST": "Successful Git Test!"
+        }, 
         "CREATED": "Erstellt", 
         "FILE_NAME": "Dateiname", 
         "DETAILS": {
