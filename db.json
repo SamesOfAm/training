@@ -1,0 +1,1918 @@
+{
+    "ACCESS_DENIED": {
+        "HEADER": "Leider ist das neue Nutzerkonto für Dich noch nicht zugänglich.",
+        "ONLY_NEW_USERS": "Momentan können nur neu registrierte Nutzer auf diesen Bereich zugreifen.",
+        "STAY_TUNED": "Sei gespannt!",
+        "WE_WILL_INFORM": "Selbstverständlich informieren wir Dich umgehend, wenn es so weit ist.",
+        "WORKING_ON_IT": "Wir arbeiten daran, das neue Nutzerkonto bald für alle Spreadshirt-Nutzer zugänglich zu machen."
+    },
+    "ACCOUNT_DELETED": {
+        "HEADING": "Schade, dass Du uns verlässt!",
+        "SUBHEADING": "Dein Account ist jetzt geschlossen."
+    },
+    "ACCOUNT": {
+        "ACCOUNT": {
+            "CHANGE_PASSWORD": "Passwort ändern",
+            "DELETE": "Nutzerkonto löschen",
+            "MEDIUMPASSWORD": "Mittel",
+            "NEW_PASSWORD": "Neues Passwort",
+            "NEW_PASSWORD_CONFIRM": "Bestätige Dein neues Passwort",
+            "NOPASSWORD": "Hinweise für Dein Passwort",
+            "OLD_PASSWORD": "Jetziges Passwort",
+            "PROFILE_IMAGE": "Avatar",
+            "PROFILE_IMAGE_HINT": "Mindestens 130 Pixel breit und maximal 2 MB groß",
+            "PROFILE_IMAGE_UPLOAD": "Avatar ändern",
+            "PW_RECOMMENDATIONS": {
+                "CASE": "Groß- und Kleinschreibung",
+                "HEADING": "Wir empfehlen ein Passwort mit",
+                "LENGTH": "8 oder mehr Zeichen",
+                "NUMBER": "Mindestens einer Ziffer",
+                "STRENGTH": "Sicherheit"
+            },
+            "STRONGPASSWORD": "Stark",
+            "USERNAME": "Nutzername",
+            "VALID_FOR_FORUM": "Nutzername und Passwort gelten auch für das <a href=\"https://www.spreadshirt.net/forum\" target=\"_blank\">Forum</a>.",
+            "WEAKPASSWORD": "Schwach",
+            "HEADING": "Kontoeinstellungen"
+        },
+        "CONTACT": {
+            "EMAIL": "E-Mail",
+            "HEADING": "Kontaktinformationen",
+            "NEWSLETTER": {
+                "CUSTOMER": "Für Kunden",
+                "CUSTOMER_TOOLTIP": "Die besten Marktplatz-Designs, aktuelle Promos und Produktneuigkeiten einmal pro Woche frisch in Deinem Posteingang.",
+                "PARTNER": "Für Partner",
+                "PARTNER_TOOLTIP": "Wir informieren Dich einmal im Monat über besondere Promos, neue Features und verraten Dir Tipps und Tricks rund um Deinen Shop.",
+                "SAMPLE_LINK_TEXT": "Beispiel {{index}} ansehen",
+                "SHOPS": "Shop",
+                "SURVEY": "Umfragen",
+                "SURVEY_TOOLTIP": "Sag uns Deine Meinung! Melde Dich hier an um an Umfragen teilzunehmen und Tipps zu erhalten"
+            },
+            "PHONE": "Telefon",
+            "SUBSCRIPTIONS": "Folgende Newsletter abonnieren:"
+        },
+        "DELETION_CONFIRMATION_ACTION": "Erneut klicken zum Löschen",
+        "DELETION_CONFIRMATION_TEXT": "Wenn Du wirklich Dein Nutzerkonto und alle damit verbundenen Daten löschen möchtest, gib bitte Dein Passwort ein.",
+        "DELETION_HEADER": "Du bist im Begriff, Dein Nutzerkonto zu löschen. Das kann nicht rückgängig gemacht werden.",
+        "ERRORS": {
+            "GENERAL_ERROR": "Leider ist ein Fehler aufgetreten",
+            "INVALID_BIC": "Bitte gib einen gültigen BIC ein",
+            "INVALID_DATE": "Bitte gib ein gültiges Datum an",
+            "INVALID_FORMAT": "Bitte gib ein gültiges Format an",
+            "INVALID_IBAN": "Bitte gib eine gültige IBAN ein",
+            "PASSWORD_MISMATCH": "Deine Passwörter stimmen nicht überein",
+            "REQUIRED": "Bitte fülle dieses Feld aus",
+            "USERNAME_EXISTS": "Dieser Nutzername wird leider bereits verwendet",
+            "WRONG_PASSWORD": "Dein Passwort ist ungültig"
+        },
+        "FINANCE": {
+            "ACCOUNT_HOLDER": "Kontoinhaber",
+            "ACCOUNT_ID": "IBAN",
+            "BANK_ACCOUNT": "Bankkonto",
+            "BANK_ID": "BIC",
+            "BANK_LOCATION": "Ort des Kreditinstituts",
+            "BANK_NAME": "Name des Kreditinstituts",
+            "HEADING": "Zahlungsverbindung"
+        },
+        "GREETING": "Hallo",
+        "NEWSLETTER": {
+            "HEADING": "Newsletter-Abos"
+        },
+        "PERSONAL": {
+            "CITY": "Stadt",
+            "COMPANY": "Name der Firma",
+            "COUNTRY": "Land",
+            "FIRSTNAME": "Vorname",
+            "HEADING": "Persönliche Angaben",
+            "HOUSE_NUMBER": "Hausnummer",
+            "IS_COMPANY": "Firma?",
+            "LASTNAME": "Nachname",
+            "POSTAL_CODE": "Postleitzahl",
+            "STATE": "Bundesland/Provinz",
+            "STREET": "Straße und Hausnummer",
+            "STREET_ONLY": "Straße",
+            "STREET2": "Adresszusatz"
+        },
+        "SELLER": {
+            "DESCRIPTION": "Kurzbeschreibung",
+            "HEADING": "Designer Showroom",
+            "INTERESTS": "Interessen",
+            "PUBLIC": "Bei Spreadshirt öffentlich",
+            "VISIT_ARTIST_PAGE": "Showroom besuchen",
+            "WEBSITE": "Website"
+        },
+        "TAXATION_FORM_NA_WARNING": "Der IRS verpflichtet alle Partner, ein Steuerformular auszufüllen und an Spreadshirt zu senden. Lade das Formular hier herunter und folge den weiteren Anweisungen. Versäumst Du es uns Dein Formular zu übermitteln, sind wir leider verpflichtet bis zu 30% Deiner Vergütung einzubehalten.",
+        "TAXATION_WARNING_LINK": "Bitte klicke hier um Deine Steuerinformationen zu korrigieren",
+        "TAXATION": {
+            "EU_COMPANY": {
+                "EXPLANATION1": "Hast Du Deinen (Wohn-) Sitz in einem anderen Land als Deutschland, benötigen wir von Dir Deine gültige Steuer-Identifikationsnummer (Tax Identification Number, TIN).",
+                "EXPLANATION2": "Mit der Angabe Deiner gültigen TIN, kannst Du unter Umständen von Steuervergünstigungen lt. eines Doppelbesteuerungsabkommens profitieren. Gibst Du nicht Deine korrekte Steuernummer an, so müssen wir grundsätzlich einen Steuerabzug von 15 % der Vergütung aus dem Designpreis (Quellensteuer) zzgl. 5,5 % Solidaritätszuschlag auf die Quellensteuer einbehalten.",
+                "EXPLANATION3": "Für EU-Partner ohne (Wohn-) Sitz in Deutschland verlagert sich die Steuerschuldnerschaft für die Umsatzsteuer auf Spreadshirt (sog. Reverse Charge Verfahren).",
+                "EXPLANATION4": "Bist Du außerhalb von Deutschland umsatzsteuerlich registriert, teile uns Deine Umsatzsteuer-Identifikationsnummer (VAT-ID) hier mit.",
+                "EXPLANATION5": "Darüberhinaus lade das folgende Formular herunter und sende es ausgefüllt per E-Mail an",
+                "HEADING": "EU-Partner ohne (Wohn-) Sitz in Deutschland",
+                "TAX_ID": "TIN",
+                "VAT_ID": "VAT-ID"
+            },
+            "EU_DE_ARTIST": {
+                "EXPLANATION1": "Ich versteuere meine Umsätze mit 7% Umsatzsteuer.",
+                "EXPLANATION2": "Darüberhinaus lade das folgende Formular herunter und sende es ausgefüllt per E-Mail an",
+                "EXPLANATION3": "Erst nach Eingang des Formulars bei uns und dem Abgleich Deiner Daten kann die Umsatzsteuer bei der Abrechnung Deiner Vergütung berücksichtigt werden. Bitte sende uns das Formular schnellstmöglich zu, da wir für die Bearbeitung bis zu 10 Tage benötigen.",
+                "HEADING": "Partner mit (Wohn-) Sitz in Deutschland (7% Ust )",
+                "INPUT_EXPLANATION1": "Zum Nachweis Deiner umsatzsteuerlichen Registrierung gib Deine gültige",
+                "INPUT_EXPLANATION2": "oder",
+                "INPUT_EXPLANATION3": "hier an.",
+                "SHORT_EXPLANATION": "7% Ust",
+                "TAX_ID": "Steuernummer",
+                "VAT_ID": "Umsatzsteuer-Identifikationsnummer"
+            },
+            "EU_DE_COMPANY": {
+                "EXPLANATION1": "Ich versteuere meine Umsätze mit 19% Umsatzsteuer.",
+                "EXPLANATION2": "Darüberhinaus lade das folgende Formular herunter und sende es ausgefüllt per E-Mail an",
+                "EXPLANATION3": "Erst nach Eingang des Formulars bei uns und dem Abgleich Deiner Daten kann die Umsatzsteuer bei der Abrechnung Deiner Vergütung berücksichtigt werden. Bitte sende uns das Formular schnellstmöglich zu, da wir für die Bearbeitung bis zu 10 Tage benötigen.",
+                "HEADING": "Partner mit (Wohn-) Sitz in Deutschland (19% Ust)",
+                "INPUT_EXPLANATION1": "Zum Nachweis Deiner umsatzsteuerlichen Registrierung gib Deine gültige",
+                "INPUT_EXPLANATION2": "oder",
+                "INPUT_EXPLANATION3": "hier an.",
+                "SHORT_EXPLANATION": "19% Ust",
+                "TAX_ID": "Steuernummer",
+                "VAT_ID": "Umsatzsteuer-Identifikationsnummer"
+            },
+            "EU_NO_EU": {
+                "EXPLANATION1": "Hast Du Deinen (Wohn-) Sitz außerhalb der EU, benötigen wir von Dir Deine gültige Steuer-Identifikationsnummer (Tax Identification Number, TIN).",
+                "EXPLANATION2": "Mit der Angabe Deiner gültigen TIN, kannst Du unter Umständen von Steuervergünstigungen lt. eines Doppelbesteuerungsabkommens profitieren. Gibst Du nicht Deine korrekte Steuernummer an, so müssen wir grundsätzlich einen Steuerabzug von 15 % der Vergütung aus dem Designpreis (Quellensteuer) zzgl. 5,5 % Solidaritätszuschlag auf die Quellensteuer einbehalten.",
+                "EXPLANATION3": "Für Partner außerhalb der EU verlagert sich die Steuerschuldnerschaft für die Umsatzsteuer auf Spreadshirt (sog. Reverse Charge Verfahren).",
+                "HEADING": "Partner mit (Wohn-) Sitz außerhalb der EU",
+                "TAX_ID": "TIN"
+            },
+            "EU_PRIVATE": {
+                "EXPLANATION": "Ohne umsatzsteuerliche Registrierung",
+                "HEADING": "Partner",
+                "TAX_ID": "TIN",
+                "TAX_ID_EXPLANATION1": "Hast Du Deinen (Wohn-) Sitz in einem anderen Land als Deutschland, benötigen wir von Dir Deine gültige Steuer-Identifikationsnummer (Tax Identification Number, TIN).",
+                "TAX_ID_EXPLANATION2": "Mit der Angabe Deiner gültigen TIN, kannst Du unter Umständen von Steuervergünstigungen lt. eines Doppelbesteuerungsabkommens profitieren. Gibst Du nicht Deine korrekte Steuernummer an, so müssen wir grundsätzlich einen Steuerabzug von 15 % der Vergütung aus dem Designpreis (Quellensteuer) zzgl. 5,5 % Solidaritätszuschlag auf die Quellensteuer einbehalten."
+            },
+            "EU_SMALL_BUSINESS": {
+                "HEADING": "Partner mit (Wohn-) Sitz in Deutschland (Kleinunternehmer)",
+                "SHORT_EXPLANATION": "Ich bin als umsatzsteuerlicher Kleinunternehmer registriert."
+            },
+            "EXPLANATION1": "Wir sind aufgrund der deutschen Steuervorschriften verpflichtet, Informationen zu Deinem Steuerstatus einzuholen. Diese Informationen werden über unseren kurzen Online-Steuerfragebogen erfasst. Die Informationen müssen uns vorliegen, bevor wir Deine Vergütung abrechnen und auszahlen können.",
+            "EXPLANATION2": "Bei Fragen zu Deinem Steuerstatus sowie zur Versteuerung Deiner Vergütungen empfehlen wir Dir Rat bei einem Steuerberater einzuholen.",
+            "EXPLANATION3": "Bitte wähle aus den folgenden Punkten aus, welche Situation auf Dich zutrifft und gib die entsprechenden Daten korrekt an.",
+            "HEADING": "Auszahlungsdaten & Steuerstatus",
+            "INCONSISTENCY_WARNING": "Aufgrund Deiner persönlichen Angaben müssen Deine Steuerangaben geändert werden.",
+            "VATID_FORM_DOWNLOAD_LINK": "Download: Bestätigung zur Berechtigung des Umsatzsteuerausweises"
+        }
+    },
+    "DASHBOARD": {
+        "CALENDAR": "Promotion-Kalender",
+        "COMMISSION": "Einnahmen",
+        "CREDIT": "Guthaben",
+        "CREDIT_BREAKDOWN": "So setzt sich Dein Guthaben zusammen",
+        "CREDIT_FROM_AFFILIATE_COMMISSION": "Affiliate-Provision",
+        "CREDIT_FROM_DESIGN_COMMISSION": "Designpreis",
+        "CREDIT_FROM_OTHER_COMMISSION": "Sonstige",
+        "CREDIT_FROM_VOLUME_COMMISSION": "Erfolgsbonus",
+        "DESIGNS_SOLD": "Verkaufte Designs",
+        "LEARN_MORE": "Mehr Infos",
+        "MISSING_PAYMENT_DATA": "Um Dir Dein Guthaben auszahlen zu können, benötigen wir Deine Bankverbindung. Klicke hier um Deine Daten zu vervollständigen.",
+        "NEWS": "Nicht verpassen: Neues im Blog",
+        "NEXT_PAYOUT": "Nächste Auszahlung",
+        "NEXT_PAYOUT_DATE": "Mitte {{month}}",
+        "ORDERS": "Bestellungen",
+        "PERFORMANCE": {
+            "BAD": "Schau Dir ein paar Tipps unten an, um Deinen Verkäufen auf die Sprünge zu helfen.",
+            "GOOD": "Es scheint mit Deinen Verkäufen voranzugehen. Weiter so!"
+        },
+        "POS_FILTER": {
+            "ALL": "Alle Kanäle",
+            "EMP": "Externe Marktplätze",
+            "SHOPS": "Shop",
+            "SPREADSHIRT": "Marktplatz"
+        },
+        "PRODUCTS_SOLD": "Verkaufte Produkte",
+        "PROMOTION": "Promotion",
+        "SALES": "Verkäufe",
+        "SALES_CHART_HINT": "Verkäufe erscheinen in der Guthaben-Übersicht links 15 Werktage nach der jeweiligen Bestellung.",
+        "SHOPS": "Shops",
+        "SINCE_LAST_PAYOUT": "Seit letzter Auszahlung",
+        "SUCCESS_GUIDE": "Tipps für mehr Erfolg",
+        "TIME_FILTER": {
+            "HALF_YEAR": "6 Monate",
+            "MONTH": "30 Tage",
+            "QUARTER": "3 Monate",
+            "TWO_WEEKS": "Letzte zwei Wochen",
+            "WEEK": "7 Tage",
+            "YEAR": "12 Monate"
+        },
+        "TIPS": {
+            "PRICE": {
+                "CONTENT": "Ein hoher Designpreis macht Dein Produkt teurer. Teste niedrigere Designpreise und finde heraus, welche am besten ankommen.",
+                "HEADING": "Behalte die Preise im Blick"
+            },
+            "SHARE": {
+                "CONTENT": "Teilen ist der Schlüssel zu erfolgreichem Marketing! Mit Facebook, Instagram und Co. erhöhst Du Deinen Traffic und erreichst neue Kunden.",
+                "HEADING": "Nutze Social Media"
+            },
+            "UPLOAD": {
+                "CONTENT": "Je mehr Designs Du anbietest, desto höher Deine Verkaufschancen! Erfolgreiche Partner laden täglich 4-5 neue Designs hoch.",
+                "HEADING": "Lade mehr Designs hoch"
+            }
+        },
+        "USER_ID": "Nutzer-ID",
+        "VIEW_MORE": "Details anzeigen",
+        "VISITS": "Besucher",
+        "VOLUME_COMMISSION": {
+            "AFFILIATE_COMMISSION": "Affiliate-Provision",
+            "HEADER": "So wird Dein Guthaben berechnet",
+            "OF_BASE_PRICE": "von Produkt- und Druckpreis",
+            "SOLD_ITEMS": {
+                "ITEMS": "Artikel",
+                "TEXT": "Verkäufe in diesem Zeitraum:"
+            },
+            "STEP_EXPLANATION": "Verkaufe diesen Monat mind. {{items}} Artikel in Deinen Shops und verdiene {{percentage}}% Erfolgsbonus zusätzlich zu Design-Preis und Affiliate-Provision.",
+            "VOLUME_COMMISSION": "Erfolgsbonus"
+        },
+        "WELCOME_BACK": "Willkommen zurück"
+    },
+    "DESIGNS": {
+        "ALERTS": {
+            "DESIGN_DELETE_SUCCESS": "Dein Design wurde gelöscht.",
+            "DESIGN_DELETE_SUCCESS_TITLE": "Abgeschlossen"
+        },
+        "BULK": {
+            "BACK": "Alle abwählen",
+            "COMMISSION": {
+                "HEADING": "Einen Preis für diese Designs festlegen"
+            },
+            "DESIGN_COMMISSION_APPLIES_TO_ALL_POS_HINT": "Gilt auf allen Verkaufskanälen",
+            "HEADER": "Bearbeiten",
+            "NO_POS": "Du hast noch keinen Verkaufskanal gewählt.",
+            "REMOVE_ITEM_CONFIRMATION_TEXT": "Möchtest Du dieses Design wirklich aus der Auswahl entfernen?",
+            "SET_BTN_TEXT": "Festlegen",
+            "TAGS": {
+                "HEADING": "Stichwörter für diese Designs festlegen",
+                "LIMIT_WARNING": "Stichwörter konnten nicht zu allen Designs hinzugefügt werden. Klicke auf \"Anzeigen\" um zu sehen welche.",
+                "LIMIT_WARNING_LINK": "Anzeigen",
+                "LIMIT_WARNING_SINGLE": "Maximale Anzahl der Stichwörter erreicht."
+            },
+            "VALIDATION": {
+                "ERRORS": "Was uns noch fehlt:"
+            }
+        },
+        "COMMISSION": "Designpreis",
+        "CONFIGURATION": {
+            "ASSORTMENT_REVIEW": {
+                "HEADING": "Vorschau Deiner Produkte",
+                "WIZARD": "Produktvorschau"
+            },
+            "ASSORTMENT": {
+                "HEADING": "Wähle eine Kollektion für Dein Design aus",
+                "WIZARD": "Produkte wählen"
+            },
+            "COMMISSION": {
+                "CUSTOMER_PAYS": "Verkaufspreis",
+                "EARNINGS": {
+                    "FROM": "von",
+                    "HEADING": "Das kannst Du verdienen:",
+                    "LABEL": "Mögl. Verdienst",
+                    "MP": {
+                        "EXPLANATION": "Diesen Betrag verdienst Du, wenn ein Kunde ein Produkt mit Deinem Design auf dem Marktplatz kauft (ggf. abzgl. USt.).",
+                        "LEGAL": "Der Betrag gibt Deinen möglichen Verdienst ohne Berücksichtigung von Steuern an.<br>Dein möglicher Verdienst besteht aus dem Designpreis, ggf. abzüglich der Umsatzsteuer des jeweiligen Lieferlandes, siehe <a href=\"https://www.spreadshirt.de/partner-agb-C10183\" target=\"_blank\">Partner-AGB</a> Abschnitt B.2.<br><strong>Achtung</strong>: Deine konkrete Vergütung pro erfolgreich verkauftem Produkt hängt u.a. vom Lieferland und von Deinem umsatzsteuerrechtlichen Status ab.<br>Eine ausführliche Darstellung mit Rechenbeispiel findest Du <a href=\"https://help.spreadshirt.com/hc/de/articles/207194369-Designpreis\" target=\"_blank\">hier</a>."
+                    },
+                    "NO_POS": "Du hast noch keinen Verkaufskanal gewählt.",
+                    "PRODUCTS": "Produktgruppe",
+                    "SHOP": {
+                        "EXPLANATION_ALL_AFFILIATE": "Dies ist Deine Gewinnspanne pro verkauftem Design im Shop (ggf. abzgl. USt.). Dein möglicher Verdienst setzt sich zusammen aus Designpreis, Affiliate-Provision und Erfolgsbonus.",
+                        "EXPLANATION_NO_AFFILIATE": "Da Du die Affiliate-Provision abgewählt hast, kannst Du nur mit dem Designpreis Geld verdienen.",
+                        "EXPLANATION_SOME_AFFILIATE": "Dies ist Deine Gewinnspanne pro verkauftem Design im Shop (ggf. abzgl. USt.). Aktivierst Du die Affiliate-Provision für alle Shops, kannst Du noch mehr verdienen.",
+                        "LEGAL_MAX": "Die Maximalvergütung setzt sich zusammen aus: Designpreis + Affiliate-Provision + höchstmöglichem Erfolgsbonus (dafür wiederum müssen u.a. mehr als 4000 Produkte in einem Monat in Deinem Shop verkauft worden sein, siehe <a href=\"https://www.spreadshirt.de/partner-agb-C10183\" target=\"_blank\">Partner-AGB</a> Abschnitt C.2.2.).<br><strong>Achtung</strong>: Deine konkrete Vergütung pro Produkt hängt u.a. auch vom Produkttyp, von der Druckart, vom Lieferland und von Deinem umsatzsteuerrechtlichen Status ab und kann durch Rabattaktionen beeinflusst werden.<br>Eine ausführliche Darstellung mit Rechenbeispiel findest Du <a href=\"https://help.spreadshirt.com/hc/de/articles/207233389-Affiliate-Provision\" target=\"_blank\">hier</a>.",
+                        "LEGAL_MIN_ALL_AFFILIATE": "Der Betrag gibt Deinen möglichen Verdienst ohne Berücksichtigung von Steuern an.<br>Dein möglicher Verdienst setzt sich zusammen aus:<br> Designpreis (ggf. abzüglich der Umsatzsteuer des jeweiligen Lieferlandes) + Affiliate-Provision in Höhe von 20% des Netto-Grundpreises des jeweiligen Produkts, siehe <a href=\"https://www.spreadshirt.de/partner-agb-C10183\" target=\"_blank\">Partner-AGB</a> Abschnitte C.2.3 und C.2.1.<br><strong>Achtung</strong>: Deine konkrete Vergütung pro erfolgreich verkauftem Produkt hängt u.a. auch vom Produkttyp, von der Druckart, vom Lieferland und von Deinem umsatzsteuerrechtlichen Status ab.<br> Eine ausführliche Darstellung mit Rechenbeispiel findest Du <a href=\"https://help.spreadshirt.com/hc/de/articles/207233389-Affiliate-Provision\" target=\"_blank\">hier</a>.",
+                        "LEGAL_MIN_NO_AFFILIATE": "Der Betrag gibt Deinen möglichen Verdienst ohne Berücksichtigung von Steuern an.<br>Dein möglicher Verdienst besteht aus dem Designpreis, ggf. abzüglich der Umsatzsteuer des jeweiligen Lieferlandes, siehe <a href=\"https://www.spreadshirt.de/partner-agb-C10183\" target=\"_blank\">Partner-AGB</a> Abschnitt C.2.3.<br>Wenn Du in Deinem Shop die Affiliate-Provision aktivierst, kannst Du Deine Vergütung steigern, siehe <a href=\"https://www.spreadshirt.de/partner-agb-C10183\" target=\"_blank\">Partner-AGB</a> Abschnitte C.2.1. und C.2.2.<br><strong>Achtung</strong>: Deine konkrete Vergütung pro erfolgreich verkauftem Produkt hängt u.a. vom Lieferland und von Deinem umsatzsteuerrechtlichen Status ab.<br>Eine ausführliche Darstellung mit Rechenbeispiel findest Du <a href=\"https://help.spreadshirt.com/hc/de/articles/207194369-Designpreis\" target=\"_blank\">hier</a>.",
+                        "LEGAL_MIN_SOME_AFFILIATE": "Der Betrag gibt Deinen möglichen Verdienst ohne Berücksichtigung von Steuern an.<br>Dein möglicher Verdienst besteht aus dem Designpreis, ggf. abzüglich der Umsatzsteuer des jeweiligen Lieferlandes, siehe <a href=\"https://www.spreadshirt.de/partner-agb-C10183\" target=\"_blank\">Partner-AGB</a> Abschnitt C.2.3.<br>Hinzu kommt die Affiliate-Provision in Höhe von 20% des Netto-Grundpreises des jeweiligen Produkts, wenn Du sie in Deinem Shop nicht deaktiviert hast, siehe <a href=\"https://www.spreadshirt.de/partner-agb-C10183\" target=\"_blank\">Partner-AGB</a> Abschnitt C.2.1.<br><strong>Achtung</strong>: Deine konkrete Vergütung pro erfolgreich verkauftem Produkt hängt u.a. auch vom Produkttyp, von der Druckart, vom Lieferland und von Deinem umsatzsteuerrechtlichen Status ab. Eine ausführliche Darstellung mit Rechenbeispiel findest Du <a href=\"https://help.spreadshirt.com/hc/de/articles/207194369-Designpreis\" target=\"_blank\">hier</a>."
+                    },
+                    "TO": "bis"
+                },
+                "EXPLANATION": "Rechenbeispiel",
+                "MIN_PRICE": "ab {{minPrice}}",
+                "PRICE_RANGE": "Preisspanne",
+                "PRODUCTS": "Produktgruppe",
+                "SHOP_COMMISSION": "Dein Verdienst setzt sich zusammen aus Designpreis und Affiliate-Provision (20% von Produkt- und Druckpreis).",
+                "SHOP_EARNINGS": "Shop-Verdienst",
+                "SPRD_EARNINGS": "Marktplatz-Verdienst",
+                "SUBHEADING": "Designpreis festlegen",
+                "WIZARD": "Designpreis festlegen"
+            },
+            "COMPLETE": {
+                "HEADING": "Fertig!",
+                "MP_REVIEW_NEEDED": "Wir prüfen Dein Design ob es den Richtlinien für unseren Marktplatz entspricht.",
+                "PUBLISHED_TO_SHOP": "Die Produkte mit Deinem Design sind nun in Deinem Shop verfügbar.",
+                "UPLOAD_ANOTHER_DESIGN": "Weiteres Design hochladen"
+            },
+            "DESIGNER": {
+                "HEADING": "Design platzieren und Produktfarbe ändern",
+                "WIZARD": "Beispielprodukt"
+            },
+            "META_DATA": {
+                "HEADING": "Finde einen guten Namen und passende Stichwörter für Dein Design",
+                "WIZARD": "Design beschreiben"
+            },
+            "POINTS_OF_SALE": {
+                "ALL_SHOPS": "all Deinen Shops",
+                "HEADING": "Wo möchtest Du Dein Design anbieten?",
+                "MESSAGE": "Wähle einen oder mehrere Verkaufskanäle aus.",
+                "MP_DESCRIPTION": "Du verdienst Deinen Designpreis bei jedem Verkauf. Spreadshirt kümmert sich um Marketing und Traffic.",
+                "MP_DESELECT": "Abwählen",
+                "MP_SELECT": "Auf dem Marktplatz verkaufen",
+                "PUBLISH_TO_ALL_SHOPS": "Verkaufe in {{count}} Deiner {{total}} Shops",
+                "PUBLISH_TO_SHOPS": "Verkaufe in all Deinen Shops",
+                "PUBLISH_TO_SHOPS_HEADING": "Shops",
+                "PUBLISH_TO_SPRD": "Verkaufe auf dem Marktplatz",
+                "REJECTION_REASONS": "Ablehngründe",
+                "SELECT_SHOPS": "Shops auswählen",
+                "SELECT_SHOPS_DESCRIPTION": "Wähle die Shops aus, in denen Du verkaufen möchtest.",
+                "SHOP_DESCRIPTION": "Behalte bis zu 60% Deiner Shop-Einnahmen mit Affiliate-Provision und Erfolgsbonus. Du kümmerst Dich um Content, Marketing und Traffic, wir machen den Rest.",
+                "SHOP_DESELECT": "Diesen Shop abwählen",
+                "SHOP_SELECT": "In diesem Shop verkaufen",
+                "SHOPS_INFO": "Verkaufst Du in Deinem <strong>eigenen Shop</strong>, bietest Du Deine Designs unter einer eigenen Webadresse an, die wir Dir zur Verfügung stellen. Du hast völlige Kontrolle über das Layout. Auch ein nahtloses Einbinden in Deine bisherige Website oder Deinen Blog ist kein Problem. Du verdienst bei jedem Verkauf.",
+                "SPRD_INFO": "<strong>Auf dem Spreadshirt-Marktplatz verkaufen</strong> bedeutet: Kunden können <strong>Deine Designs auf der Spreadshirt-Website</strong>, in <strong>Deinem persönlichen Showroom</strong> und im Selbst-Gestalten-Bereich entdecken. Du verdienst bei jedem Verkauf.",
+                "WIZARD": "Verkaufskanäle wählen"
+            },
+            "PRODUCT_GROUPS": {
+                "18_PLUS_INFO": "Dieses Design wurde als nicht jugendfrei eingestuft und ist deshalb nicht für Kinder- und Babyprodukte geeignet.",
+                "COLOR": {
+                    "DESCRIPTION": "In der Artikelübersicht werden Deine Produkte in der Standardfarbe angezeigt. In der Detailansicht können Kunden die Produktfarbe ändern.",
+                    "PRODUCT_COLOR": "Produktfarbe",
+                    "TITLE": "Standardfarbe",
+                    "WARNING": "Diese Farbe ist für die markierten Produkte nicht verfügbar."
+                },
+                "DESELECT_ALL": "Auswahl aufheben",
+                "FILTERS": "Auswahl",
+                "HEADING": "Wähle Deine Produktgruppen",
+                "LAST_SELECTION": "Zuletzt von Dir gewählte Gruppen:",
+                "MINIMUM": "Wähle mindestens eine Produktgruppe für Dein Design",
+                "OTHERS": "Alle Gruppen:",
+                "RECOMMENDED": "Die beliebtesten Gruppen:",
+                "REFINE": {
+                    "HEADING": "Auswahl verfeinern",
+                    "KEEP": "Behalten",
+                    "LABEL": "Filter",
+                    "REMOVE": "Entfernen",
+                    "REMOVE_EXPLANATION": "Du hast alle Kategorien abgewählt, daher wird die Gruppe aus Deiner Auswahl entfernt.",
+                    "REMOVE_HEADING": "Produkte entfernen?",
+                    "SUBHEADING": "Entferne einzelne Kategorien in dieser Produktgruppe, indem Du auf die Bilder klickst."
+                },
+                "RESET": "Letzte Speicherung",
+                "RESET_SELECTION": "Zurück zur letzten Auswahl",
+                "SELECT_ALL": "Alle Gruppen auswählen",
+                "SELECTED_COUNT": "{{count}} Produktgruppen ausgewählt",
+                "SUBHEADING": "Jedes Bild steht für eine ganze Produktgruppe. Ändere die Standardfarbe einer Gruppe rechts unter dem jeweiligen Bild.",
+                "WIZARD": "Produkte wählen"
+            }
+        },
+        "CREATED": "Erstellt",
+        "DELETE": {
+            "CONFIRM": "Auswahl löschen",
+            "HEADER": "Designs:",
+            "INFO": "Wähle hier alle Designs aus, die Du löschen möchtest. Achtung: Dies kann nicht rückgängig gemacht werden.",
+            "POS_REMOVE_HINT": "Gelöschte Designs werden automatisch von allen Verkaufskanälen entfernt.",
+            "SINGLE_WARNING": "Bist Du sicher, dass Du das Design löschen willst?",
+            "WARNING": "Bist Du sicher, dass Du <strong>{{designCount}}</strong> Designs löschen willst?"
+        },
+        "DETAILS": {
+            "ASSORTMENT_EMPTY_18PLUS_EXPLANATION": "Dieses Design wurde als nicht jugendfrei eingestuft und kann deshalb nicht auf Kinder- und Babyprodukte gedruckt werden.",
+            "ASSORTMENT_EMTPY_18PLUS_HEADER": "Nicht jugendfrei",
+            "CHANGE_TO_DARK_BACKGROUND": "Du siehst kein Design? Klicke hier, um den Hintergrund abzudunkeln.",
+            "CHANGE_TO_DARK_BACKGROUND_HINT": "Dies hat keine Auswirkungen auf den Druck.",
+            "CHARS_AVAILABLE_INFO": "noch {{characterCount}} Zeichen",
+            "DESCRIPTION_HINT": "Überzeuge Kunden, die sich Dein Design ansehen und sorge für eine bessere Platzierung bei Google & Co. Beispiel: Dieses lustige Affen-Motiv mit Banane ist der Farbtupfer für Deinen Alltag. Ein lustiges Tier-Design für Kinder und Erwachsene.",
+            "DESCRIPTION_TITLE": "Beschreibung",
+            "DESCRIPTION_TITLE_ACTIVE": "Beschreibe Dein Design",
+            "HIGH_COMMISSION_WARNING": "(Bei {{min}} bis {{max}} verkaufen sich Designs am besten.)",
+            "MANUAL_COMMISSION_INPUT_LABEL": "Preis eingeben",
+            "META_DATA_SUBHEADING": "Gib die Infos bitte auf {{language}} an.",
+            "NAME_HINT": "Der Name erscheint in allen Verkaufskanälen als Überschrift Deines Designs und ist wichtig, damit Kunden es finden. Wähle einen kurzen, aussagekräftigen Namen.",
+            "PRICE_PREVIEW_HINT": "Alle hier gezeigten Preise sind Beispielpreise",
+            "PRICE_PREVIEW_PRICE_LABEL": "Preis",
+            "PRICE_PREVIEW_RETAIL_PRICE_LABEL": "Verkaufspreis",
+            "PRODUCT_ASSORTMENT_18_PLUS_FULL": "Dieses Design wurde als nicht jugendfrei eingestuft und ist deshalb nicht für Kinder- und Babyprodukte geeignet. Bitte wähle andere Produkte aus.",
+            "PRODUCT_ASSORTMENT_18_PLUS_PARTLY": "Dieses Design ist nicht jugendfrei. Kinder- und Babyprodukte sind deshalb nicht verfügbar.",
+            "PRODUCT_ASSORTMENT_18_PLUS_SELECT": "Produkte wählen",
+            "PRODUCT_ASSORTMENT_HEADING": "Produktgruppen",
+            "PUBLISH": "Erstellen",
+            "PUBLISH_UNPUBLISH": "Verkaufskanal wählen",
+            "PUBLISHED_HEADING": "Gewählte Verkaufskanäle",
+            "TAB_TITLE2": "Details",
+            "TAG_HINT": "Stichwörter, die gut zu Deinem Design passen, helfen Kunden dieses bei Spreadshirt und Suchmaschinen zu finden. &#10;Wähle mind. 3 Stichwörter und trenne mit Enter oder Komma.",
+            "TAGS_AVAILABLE_INFO": "noch {{tagCount}} Stichwörter",
+            "USED_WITH": "Gewählte Kollektion:"
+        },
+        "DIMENSIONS": "Maße",
+        "EARNINGS": {
+            "AFFILIATE_COMMISSION": "Deine Affiliate-Provision",
+            "AFFILIATE_COMMISSION_EXPLANATION": "(20% des Basispreises)",
+            "BASE_PRICE": "Basispreis",
+            "BASE_PRICE_PRINTING_COST": "(inkl. Druckkosten)",
+            "DESIGN_CARD_HEADING": "Designpreis festlegen",
+            "DESIGN_PRICE": "Dein Designpreis",
+            "DESIGN_PRICE_EXPLANATION": "Je höher Dein Designpreis desto höher der Endpreis für den Kunden",
+            "EXCL_VAT": "(MwSt abgezogen)",
+            "HEADING": "Dein Verdienst im Beispiel",
+            "INCL_VAT": "(inkl. MwSt)",
+            "ITEM_VOLUME": "Geschätzte Verkäufe pro Monat",
+            "NET_EARNINGS": "Dein Nettoverdienst",
+            "PRODUCT_CARD_HEADING": "Basispreis",
+            "SELLABLE_CARD_HEADING": "Endpreis für Kunden",
+            "SHOP_PRICES_TAB": "Shop",
+            "TOTAL_EARNINGS": "Dein Verdienst",
+            "VOLUME_PERCENT": "{{percent}}% Erfolgsbonus"
+        },
+        "FILE_NAME": "Dateiname",
+        "GUIDE": {
+            "SINGLE_IDEA_EDIT": {
+                "TEXT": "Klicke dafür auf Dein Design.",
+                "TITLE": "Gestalte jetzt Produkte mit Deinem Design"
+            },
+            "UPLOAD_IN_PROCESS": {
+                "TEXT": "Wir prüfen Deine Vektor-Designs binnen weniger Minuten auf Druckbarkeit. Den Prüfstatus kannst Du in dieser Leiste einsehen.",
+                "TITLE": "Wir prüfen Deine Vektor-Designs binnen wenigen Minuten auf Druckbarkeit"
+            },
+            "UPLOAD_UPDATED": {
+                "TEXT": "Fertig. Klicke hier und wähle Dein Design, um Anpassungen zu akzeptieren.",
+                "TITLE": "Design-Prüfung fertig"
+            }
+        },
+        "ID": "Design-ID",
+        "LIST": {
+            "CLICK_TO_UPLOAD": "Datei wählen",
+            "DRAG_FILE_HERE": "Einfach Datei hierherziehen oder",
+            "NO_SEARCH_RESULT": "Leider ergab Deine Suche keine Treffer",
+            "PLACEHOLDER": {
+                "SEARCH": "Design finden"
+            },
+            "SEARCH_AGAIN_OR_BACK_TO_ALL_DESIGNS": "Versuche andere Suchbegriffe oder gehe zurück zu",
+            "TABLE": {
+                "HEADER": {
+                    "DESIGN": "Design"
+                }
+            },
+            "TOOLBAR": {
+                "ALL_DESIGNS": "Alle Designs",
+                "CLEAR_SEARCH": "Suche abbrechen",
+                "EDIT": "Bearbeiten",
+                "FILTER": "Filter",
+                "ITEMS_PER_PAGE": "Designs pro Seite",
+                "RESULTS_FOR": "Suchergebnisse für: \"{{searchTerm}}\"",
+                "SELECT_ALL": "Alle wählen",
+                "TOGGLE_HEADER": "Umschalten",
+                "UPLOAD": "Hochladen"
+            },
+            "UPLOAD_DESIGN": "Weitere Designs hochladen",
+            "UPLOAD_FIRST_DESIGN": "Lade Deine ersten Designs hoch und gestalte gleich Produkte damit."
+        },
+        "MODIFIED": "Zuletzt bearbeitet",
+        "NAME": "Name",
+        "NAME_ACTIVE": "Finde einen passenden Namen",
+        "OVERLAY": {
+            "LABEL": "Konfigurieren"
+        },
+        "POINTS_OF_SALE": "Verkaufskanäle",
+        "PUBLISHING": {
+            "MISSING_DEEPLINK": "Hier kannst Du in Kürze Dein Design in sozialen Netzwerken teilen",
+            "NOT_PUBLISHED": "Dieses Design ist noch nicht zu einem Verkaufskanal hinzugefügt worden.",
+            "POS": {
+                "DESIGN_LIBRARY": "T-Shirt-Designer",
+                "MORE_POS": "Weitere Kanäle",
+                "RETAIL_PRICE": "Verkaufspreis"
+            }
+        },
+        "RELATED_TAGS": "Vorschläge für Stichwörter",
+        "SELECT": {
+            "HEADING": "Wähle alle Designs aus, die Du gleichzeitig bearbeiten möchtest",
+            "NAV_LABEL": "Auswählen"
+        },
+        "STATUS": {
+            "HELP_LINK_TEXT": "Mehr Details",
+            "PUBLISHED": "Veröffentlicht",
+            "READY_FOR_PUBLISHING_LONG": "Das Design ist bereit zum Veröffentlichen.",
+            "REJECTED": "Abgelehnt",
+            "REJECTED_HINT": "Das Design wurde abgelehnt. Möglich sind technische Gründe oder ein Verstoß gegen das Copyright bzw. unsere Community-Richtlinien.",
+            "REJECTION_REASONS": {
+                "BACKGROUND_NOT_REMOVED": "Nicht (vollständig) freigestellt",
+                "BLURRED": "Verschwommen",
+                "CLONED_DESIGN": "Überangebot",
+                "COLORS_OR_CONTRAST_ISSUES": "Farb-/Kontrastprobleme",
+                "CONSTITUTIONAL_LAW": "Verfassungsschutz",
+                "COPYRIGHT": "Urheberrecht",
+                "CREATOR_UNKNOWN": "Grund unbekannt",
+                "DESCRIPTION": "Name oder Stichwörter unzutreffend",
+                "ETHICS": "Community-Richtlinien",
+                "FIGURATIVE_MARK": "Bildmarke",
+                "LEGAL_CHANGES": "Neue rechtliche Lage",
+                "MORE_THAN_3_VARIANTS": "Mehr als drei Versionen",
+                "OTHER": "Grund unbekannt",
+                "PERSONAL_CONTENT": "Stark personalisiert",
+                "PERSONAL_RIGHTS": "Persönlichkeitsrecht",
+                "PHOTOGRAPHY": "Foto",
+                "PIXELATED_OR_BAD_RESOLUTION": "Schlechte Auflösung",
+                "QUALITY": "Grund unbekannt",
+                "REJECTED_IN_OPOSSUM": "Grund unbekannt",
+                "SEMI_TRANSPARENCIES": "Halbtransparent",
+                "SILENT": "Grund unbekannt",
+                "SPELLING_ERRORS": "Schreibfehler",
+                "UNKNOWN_RIGHT_OF_USE": "Rechte ungeklärt",
+                "VECTORIZATION_ISSUES": "Falsch vektorisiert",
+                "WORDMARK": "Wortmarke"
+            },
+            "REVIEW": "Wird geprüft",
+            "REVIEW_LONG": "Wir prüfen jedes Design hinsichtlich unserer Community-Richtlinien, daher kann es bis zu zwei Arbeitstage dauern, bis Dein Design für Kunden verfügbar ist.",
+            "REVIEW_LONGER": "Wir prüfen jedes Design hinsichtlich unserer Community-Richtlinien. Aufgrund sehr vieler Anfragen kann es derzeit zu <a href=\"https://help.spreadshirt.com/hc/de/articles/115001994894\">längeren Wartezeiten für die Freigabe</a> kommen.",
+            "UNPUBLISHED": "Neu",
+            "UNPUBLISHED_LONG": "Um Produkte mit Deinem Design erstellen zu können, gib bitte die folgenden Informationen an."
+        },
+        "TAGS": "Stichwörter",
+        "TAGS_ACTIVE": "Gib Stichwörter ein, die Dein Design gut beschreiben",
+        "TOOLTIPS": {
+            "DESCRIPTION": "Wenn Kunden mit Suchbegriffen Dein Design gefunden haben, können sie mithilfe einer guten Beschreibung davon überzeugt werden, dass Dein Motiv das richtige für sie ist. Auch Suchmaschinen können es mit einem gelungenen Beschreibungstext besser den Kunden als Ergebnis anbieten.",
+            "NAME": "Finde einen passenden Namen. Ein kurzer, einprägsamer Name ist ideal, um Dein Design wiedererkennbar zu machen.",
+            "TAGS": "Mit Stichwörtern finden Kunden und Suchmaschinen Dein Design. Finde mindestens 3 Begriffe, die Dein Design gut beschreiben. Bestätige jedes Stichwort mit 'Enter'",
+            "TOOLTIP_LABEL": "Warum ist das wichtig?"
+        },
+        "UPLOAD": {
+            "BITMAP": "Pixelgrafik",
+            "DROP_FILES": "oder einfach hierherziehen",
+            "FILE_TYPES": "Dateitypen:",
+            "HEADER": {
+                "FIND_DESIGN": "Design hochladen...",
+                "SELECT_FILES": "Upload-Status",
+                "UPLOAD_STATUS": "Status und Details"
+            },
+            "LIST": {
+                "COPYRIGHT_LABEL": "Durch das Hochladen bestätige ich, dass ich Inhaber des Urheberrechts oder einer Lizenz zur Nutzung bin.",
+                "VALIDATION": {
+                    "FILE_DIMENSION_HINT": "Das Bild muss zwischen 100 x 100 und 4000 x 4000px groß sein.",
+                    "FILE_EXISTS_HINT": "Diese Datei befindet sich bereits im Upload-Prozess",
+                    "FILE_SIZE_HINT": "Bitte verwende Bilder kleiner als 10MB.",
+                    "FILE_TYPE_HINT": "Folgende Dateitypen sind unterstützt:",
+                    "GENERAL_ERROR": "Entschuldige, ein Fehler ist aufgetreten",
+                    "LIMIT_REACHED": "Du hast das tägliche Limit für Uploads erreicht.",
+                    "UNABLE_TO_RENDER_HINT": "Die Datei konnte leider nicht gerendert werden"
+                }
+            },
+            "MAXIMUM_AMOUNT": "Lade bis zu {{count}} Designs gleichzeitig hoch",
+            "MAXIMUM_FILE_SIZE": "10MB & 4000 x 4000px",
+            "MAXIMUM_FILE_SIZE_LABEL": "Größe max.:",
+            "MAXIMUM_NUMBER_EXCEEDED": "{{count}} Designs können wir auf einmal hochladen. Wenn diese hochgeladen sind, nehmen wir gerne die nächsten.",
+            "SELECT_FILES": "Dateien auswählen",
+            "SUCCESS": "Erfolgreich hochgeladen"
+        },
+        "VALIDATION": {
+            "BLACKLIST": {
+                "TERMS": "Folgende Begriffe sind nicht erlaubt"
+            },
+            "COMMISSION": {
+                "RANGE": "Bitte wähle einen Designpreis zwischen {{ min }} und {{ max }}."
+            },
+            "NAME": {
+                "LENGTH": "Bitte wähle einen Namen zwischen {{min}} und {{max}} Zeichen lang."
+            },
+            "POS_COMMISSION": {
+                "RANGE": "Leider ist mindestens einer Deiner Designpreise ungültig"
+            },
+            "TAGS": {
+                "LENGTH": "Bitte finde zwischen {{ min }} und {{ max }} Stichwörter."
+            }
+        }
+    },
+    "DIALOGS": {
+        "CONFIRM_UNSAVED": {
+            "HEADING": "Änderungen übernehmen?"
+        }
+    },
+    "GENERAL": {
+        "ACTIONS": "Optionen",
+        "ACTIVE": "Online",
+        "ADD": "Hinzufügen",
+        "ALERTS": {
+            "SESSION_EXPIRED_LOGOUT": "Deine Sitzung ist abgelaufen. Bitte logg Dich erneut ein.",
+            "SESSION_EXPIRED_LOGOUT_TITLE": "Bitte einloggen"
+        },
+        "BACK": "Zurück",
+        "BACK_TO_ALL_DESIGNS": "Zurück zur Design-Übersicht",
+        "BACK_TO_BULK_VIEW": "Zurück",
+        "BACK_TO_OVERVIEW": "Zurück zur Übersicht",
+        "CANCEL": "Abbrechen",
+        "CHAT": "Chat",
+        "CLEAR": "Aufheben",
+        "CLOSE": "Schließen",
+        "COLLAPSE": "Ausblenden",
+        "COMING_SOON": "Bald verfügbar",
+        "COMPLETED": "Abgeschlossen",
+        "CONFIRM_CHANGES": "Änderungen bestätigen",
+        "DATE": "Datum",
+        "DELETE": "Löschen",
+        "DESELECT": "Abwählen",
+        "DETAILS": "Mehr Details",
+        "DISCARD": "Verwerfen",
+        "DISMISS": "Ausblenden",
+        "DISMISS_ALL": "Alle ausblenden",
+        "DONE": "Fertig",
+        "DOWNLOAD": "Download",
+        "EDIT": "Bearbeiten",
+        "ERROR": {
+            "HEADING": "Ups, da ist was schiefgegangen",
+            "REFRESH": "Neu laden",
+            "TEXT1": "Entschuldige, die Bits und Bytes sind uns durcheinandergepurzelt.",
+            "TEXT2": "Bitte lade die Seite erneut."
+        },
+        "EXPAND": "Anzeigen",
+        "EXTERNAL_MARKETPLACE": "Externer Marktplatz",
+        "FOREIGN_SHOP": "Fremder Shop",
+        "FROM": "Von",
+        "HELP": "Hilfe",
+        "INACTIVE": "Offline",
+        "ITEM": "Artikel",
+        "ITEMS": "Artikel",
+        "MARKETPLACE": "Marktplatz",
+        "MORE": "Mehr",
+        "NEXT": "Weiter",
+        "NO": "Verwerfen",
+        "ONBOARDING": "Assistent",
+        "OR": "oder",
+        "PREVIEW": "Vorschau",
+        "PUBLISH": "Veröffentlichen",
+        "REFRESH": "Aktualisieren",
+        "REMOVE": "Entfernen",
+        "REVERT": "Rückgängig machen",
+        "SAVE": "Übernehmen",
+        "SELECT": "Auswählen",
+        "SELECTED": "Ausgewählt",
+        "SHOP": "Shop",
+        "SHOP_NAME": "Shopname",
+        "SHOWROOM": "Showroom",
+        "SORRY": "Keine Ergebnisse",
+        "STATUS": "Status",
+        "STEP": "Schritt",
+        "TO": "Bis",
+        "UNKNOWN_PAGE": "Hier gibt's gar nichts zu sehen...",
+        "VIEW": "Ansehen",
+        "VIEW_TYPE": "Ansicht",
+        "WARNING": "Achtung!",
+        "WEEK": "Woche",
+        "YES": "Bestätigen",
+        "NOT_AVAILABLE": "Daten zur Zeit nicht verfügbar"
+    },
+    "GUIDE": {
+        "CONFIRM": "Verstanden"
+    },
+    "LOGIN": {
+        "ERROR_MESSAGE": "Nutzername oder Passwort falsch.",
+        "FORGOT": "Nutzernamen oder Password vergessen?",
+        "HEADER": "Spreadshirt Login",
+        "LOGIN_LINK": "Login",
+        "LOGOUT": "Logout",
+        "PASSWORD_MISSING": "Bitte gib Dein Passwort ein.",
+        "PLACEHOLDER": {
+            "PASSWORD": "Passwort eingeben",
+            "USERNAME": "E-Mail oder Nutzername"
+        },
+        "REMEMBER_ME": "Angemeldet bleiben",
+        "SUBMIT": "Login",
+        "USERNAME_MISSING": "Bitte gib Deinen Nutzernamen oder Deine E-Mail-Adresse ein."
+    },
+    "MARKETING": {
+        "APP": "Statistik-App",
+        "FEATURE_APPLY": "Spreadshirt Select",
+        "GOOGLE_ADWORDS": "Google Adwords",
+        "INFO_PROMO": "Info & Promo",
+        "LEGAL_TIPS": "Rechtliche Hinweise",
+        "LINK_SHARE": "Link & Share",
+        "MODEL_PHOTOS": "Modelfotos",
+        "NEWS": "News",
+        "PRODUCT_ASSORTMENT": "Produktgruppen",
+        "PROMO_BANNERS": "Promo-Banner",
+        "PROMO_MATERIAL": "Werbematerial",
+        "SALES_ANALYSIS": "Webanalyse",
+        "SHOP_OF_MONTH": "Shop des Monats",
+        "SUCCESS_DESIGNER_GUIDE": "Erfolgreich verkaufen auf dem Marktplatz",
+        "SUCCESS_GUIDE": "Erfolgreich verkaufen im Shop"
+    },
+    "NAV": {
+        "ACCOUNT": "Nutzerkonto",
+        "DASHBOARD": "Übersicht",
+        "DESIGNS": "Designs",
+        "MARKETING": "Tipps & Tools",
+        "POS": "Verkaufs-<br>kanäle",
+        "SHOPS": "Shops",
+        "STATISTICS": "Statistik"
+    },
+    "ONBOARDING": {
+        "ADDRESS_DIALOG": {
+            "HEADING": "Fast geschafft. Eine letzte Sache noch.",
+            "SUBHEADING": "Gib Deinen Namen und Deine Adresse an, damit wir Dich auch bezahlen können"
+        },
+        "ERRORS": {
+            "EMAIL_IN_USE": "Diese E-Mail-Adresse wird bereits verwendet.",
+            "SHOPNAME_IN_USE": "Dieser Shopname ist leider schon vergeben."
+        },
+        "GUIDE": {
+            "ACTIVATE_SHOP": {
+                "TEXT": "Klicke hier, um Deinen Shop zu aktivieren und mit dem Verkaufen zu beginnen"
+            },
+            "ADD_SHOP_POS": {
+                "TEXT": "Füge das Design Deinem Shop hinzu"
+            },
+            "ADD_USERNAME": {
+                "TEXT": "Wähle einen Nutzernamen, mit dem Du Dich der Öffentlichkeit präsentieren möchtest"
+            },
+            "CHECK_CREDIT": {
+                "TEXT": "Hier siehst Du Dein Guthaben aus dem laufenden Monat"
+            },
+            "CHECK_OUT_SHOP_COLORS": {
+                "TEXT": "Wähle ein Farbschema oder passe die Farben individuell an"
+            },
+            "CHECK_POS_LIST": {
+                "TEXT": "Sieh nach, ob Dein Design freigegeben wurde und wo Du es anbietest"
+            },
+            "CHECK_STATISTICS": {
+                "TEXT": "Diese Tabelle zeigt Deine Verkäufe der letzten Zeit. Im Dropdown-Menü kannst Du nach Verkaufskanälen filtern"
+            },
+            "CLICK_ARTIST_PAGE": {
+                "TEXT": "Schau Dir an, wie Kunden Deinen Showroom sehen"
+            },
+            "CLICK_DESIGN_UPLOAD": {
+                "TEXT": "Zieh Deine Datei in das Fenster oder klicke hier"
+            },
+            "CLICK_ON_POS_SELECTION": {
+                "TEXT": "Klicke auf Bearbeiten, um das Design auch in Deinem Shop anzubieten.",
+                "TITLE": "Shop hinzufügen"
+            },
+            "EDIT_SHOP": {
+                "TEXT": "Passe das Aussehen und die Funktionen Deines Shops ganz Deinen Bedürfnissen an.",
+                "TITLE": "Bearbeite Deinen Shop"
+            },
+            "ENTER_SHOP_NAME": {
+                "TEXT": "Wenn Dir die generierte URL nicht gefällt, passe sie hier an."
+            },
+            "GO_TO_ACCOUNT_PAGE": {
+                "TEXT": "Klicke hier, um Deine Nutzerdaten zu bearbeiten"
+            },
+            "GO_TO_APP_PAGE": {
+                "TEXT": "Hier geht's zum Download"
+            },
+            "GO_TO_DASHBOARD": {
+                "TEXT": "Detaillierte Statistiken findest Du hier"
+            },
+            "GO_TO_DESIGN_DETAIL_PAGE": {
+                "TEXT": "Klicke auf das Design, um es Deinem Shop hinzuzufügen.",
+                "TITLE": "Im Shop anbieten"
+            },
+            "GO_TO_DESIGNS_PAGE": {
+                "TEXT": "Klicke auf Designs, um Dein erstes Design hochzuladen und Produkte damit zu gestalten.",
+                "TITLE": "Los geht's mit Deinen Designs"
+            },
+            "GO_TO_DESIGNS": {
+                "TEXT": "Klicke hier, um Designs hochzuladen und Produkte zu gestalten"
+            },
+            "GO_TO_IDEA_DETAILS": {
+                "TEXT": "Klicke auf Dein Design, um die Details anzuzeigen"
+            },
+            "GO_TO_MARKETING_PAGE_FOR_SELLER_GUIDE": {
+                "TEXT": "Erfahre hier, wie Du Deinen Shop vermarktest"
+            },
+            "GO_TO_MARKETING_PAGE_FOR_SPRD_SELECT": {
+                "TEXT": "Erfahre hier, wie Du Deine Designs vermarktest"
+            },
+            "GO_TO_MARKETING_PAGE": {
+                "TEXT": "Hier geht's zu den Marketing-Tipps und Tools"
+            },
+            "GO_TO_MP_SUCCESS_GUIDE": {
+                "TEXT": "Deine Erfolgs-Story beginnt hier"
+            },
+            "GO_TO_SHOP_DASHBOARD": {
+                "TEXT": "Hier findest Du Deine Verkaufskanäle"
+            },
+            "GO_TO_SHOP_PAGE": {
+                "TEXT": "Klicke auf Shops, um Layout Und Funktionen Deines Shops anzupassen.",
+                "TITLE": "Passe Deinen Shop an"
+            },
+            "GO_TO_SPRD_SELECT": {
+                "TEXT": "Klicke hier, um mehr über Spreadshirt Select zu erfahren"
+            },
+            "NAVIGATE_TO_SHOP_COLORS": {
+                "TEXT": "Passe hier Dein Shop-Layout an"
+            },
+            "NAVIGATE_TO_SHOP_CUSTOM_COLORS": {
+                "TEXT": "Klicke hier, um Deine Shop-Farben anzupassen"
+            },
+            "NAVIGATE_TO_SHOP_INFO": {
+                "TEXT": "Klicke hier, um Namen und Shop-Infos festzulegen"
+            },
+            "NAVIGATE_TO_SHOP_NAME": {
+                "TEXT": "Hier geht's weiter"
+            },
+            "ONBOARDING_START": {
+                "TEXT": "Klicke auf die einzelnen Schritte in diesem Assistenten, um Hilfe zu erhalten."
+            },
+            "OPEN_PROFILE_SECTION": {
+                "TEXT": "Lade Dein Profilbild in den Kontoeinstellungen hoch"
+            },
+            "OPEN_SHOP_SETTINGS": {
+                "TEXT": "Klicke hier, um diesen Shop zu personalisieren"
+            },
+            "PRODUCT_GROUPS_FILTER": {
+                "TEXT": "Wähle einzelne Gruppen an oder ab.",
+                "TITLE": "Produktgruppe wählen"
+            },
+            "PRODUCT_GROUPS_REFINE": {
+                "TEXT": "Wähle einzelne Kategorien wie Sport oder Bestseller.",
+                "TITLE": "Auswahl verfeinern"
+            },
+            "PUBLISH_SHOP": {
+                "TEXT": "Mit Klick auf Shop aktivieren geht Dein Shop online. Viel Erfolg!",
+                "TITLE": "Ist Dein Shop bereit für Kunden?"
+            },
+            "SELECT_SHOP_POS": {
+                "TEXT": "Klicke hier, um das Design in Deinem Shop anzubieten"
+            },
+            "SHOP_LAYOUT_SETTINGS": {
+                "TEXT": "Passe Headerbild und Farbschema an",
+                "TITLE": "Aussehen ändern"
+            },
+            "SINGLE_IDEA_EDIT": {
+                "TEXT": "Klicke auf Dein Design, um Produkte damit zu gestalten"
+            },
+            "UPLOAD_PROFILE_PICTURE": {
+                "TEXT": "Klicke hier, um Dein Profilbild hochzuladen"
+            },
+            "CHECK_SHOP_POS": {
+                "TEXT": "Hier geht's lang!"
+            },
+            "CHECK_MP_POS": {
+                "TEXT": "Hier aktivierst Du Deinen Showroom"
+            },
+            "ADD_MP_POS": {
+                "TEXT": "Wähle hier die Verkaufskanäle für Dein Design"
+            },
+            "SELECT_MP_POS": {
+                "TEXT": "Klicke hier und das Design ist auf dem Marktplatz verfügbar"
+            }
+        },
+        "HELPER": {
+            "EXTRAS": "Mehr Erfolgstipps",
+            "MP_ALL_DONE": "Herzlichen Glückwunsch! Du bist jetzt bereit, mit Deinen Designs richtig durchzustarten.",
+            "MP_LIST": "Designs verkaufen",
+            "MP_MAIN_LIST_DONE": "Glückwunsch! Du weißt jetzt, wie Du Designs auf dem Marktplatz anbietest.",
+            "NOTIFICATIONS": "Benachrichtigungen",
+            "SHOP_ALL_DONE": "Herzlichen Glückwunsch! Du weißt jetzt, wie Du erfolgreich mit Deinem Shop durchstartest.",
+            "SHOP_LIST": "Shop eröffnen",
+            "SHOP_MAIN_LIST_DONE": "Glückwunsch! Dein Shop ist online und bereit für die ersten Kunden."
+        },
+        "STEP": {
+            "CHECK_APPROVAL": {
+                "TEXT": "Schau nach, ob Dein Design zum Verkauf freigegeben wurde",
+                "TITLE": "Prüfe Deinen Design-Status"
+            },
+            "CHECK_OUT_APP": {
+                "TEXT": "Behalte Deine Verkäufe im Blick und reagiere auf Trends",
+                "TITLE": "Hol Dir die kostenlose App"
+            },
+            "CREATE_SHOP": {
+                "TEXT": "Schon erledigt, weiter so!",
+                "TITLE": "Erstelle einen Shop"
+            },
+            "CUSTOMIZE_SHOP": {
+                "TEXT": "Ändere das Layout nach Deinem Geschmack",
+                "TITLE": "Personalisiere Deinen Shop"
+            },
+            "DOWNLOAD_SUCCESS_GUIDE": {
+                "TEXT": "Unsere Profis geben Dir wertvolle Einsteiger-Tipps",
+                "TITLE": "Erfahre, wie Du Deinen Shop vermarkten kannst"
+            },
+            "GO_TO_ARTIST_PAGE": {
+                "TEXT": "Hier dreht sich alles um Dich und Deine Designs",
+                "TITLE": "Besuche Deinen Showroom"
+            },
+            "GO_TO_SPRD_SELECT": {
+                "TEXT": "Erfahre, wie exklusive Kampagnen Deine Verkäufe antreiben können",
+                "TITLE": "Informiere Dich über Spreadshirt Select"
+            },
+            "MP_CHECK_OUT_DASHBOARD": {
+                "TEXT": "Was verkauft sich gut?",
+                "TITLE": "Schau Dir die Statistik an"
+            },
+            "MP_CHECK_OUT_SUCCESS_GUIDE": {
+                "TEXT": "Lerne von unseren Marketing-Experten",
+                "TITLE": "Werde Verkaufsprofi"
+            },
+            "MP_UPLOAD_AND_PUBLISH_DESIGN": {
+                "TEXT": "Tipp: Beginne mit 2-3 Designs",
+                "TITLE": "Lade Designs hoch und gestalte Produkte"
+            },
+            "NAME_SHOP": {
+                "TEXT": "Überprüfe die URL und beschreibe Deinen Shop für Suchmaschinen",
+                "TITLE": "Optimiere URL und Metadaten"
+            },
+            "SHOP_ACTIVATION": {
+                "TEXT": "Öffne die Pforten und empfange Deine ersten Kunden",
+                "TITLE": "Aktiviere Deinen Shop"
+            },
+            "SHOP_CHECK_OUT_DASHBOARD": {
+                "TEXT": "Was verkauft sich gut?",
+                "TITLE": "Schau Dir die Statistik an"
+            },
+            "SHOP_UPLOAD_AND_PUBLISH_DESIGN": {
+                "TEXT": "Tipp: Beginne mit 2-3 Designs",
+                "TITLE": "Lade Designs hoch und gestalte Produkte"
+            },
+            "UPDATE_PROFILE_INFO": {
+                "TEXT": "Gib Deinem Showroom ein Gesicht",
+                "TITLE": "Lade ein Profilbild hoch"
+            },
+            "MP_CHECK_OUT_SHOPS": {
+                "TITLE": "Verkaufe auch im SpreadShop",
+                "TEXT": "Nutze einen weiteren Kanal für Deinen Erfolg"
+            },
+            "SHOP_CHECK_OUT_MP": {
+                "TITLE": "Verkaufe auch auf dem Marktplatz",
+                "TEXT": "Nutze einen weiteren Kanal für Deinen Erfolg"
+            }
+        }
+    },
+    "PDV": {
+        "ATTEMPTS_LEFT": "Du hast noch {{count}} Versuch(e).",
+        "BACK": "Zurück",
+        "BANNER": {
+            "FAILED": "Wir müssen Deine Adresse verifizieren, damit wir Dich bezahlen können. Bitte versuche es erneut.",
+            "FULLY_FAILED": "Wir müssen Deine Adresse verifizieren, damit wir Dich bezahlen können. Bitte wende Dich an unseren Kundenservice.",
+            "LETTER": "Wir müssen Deine Adresse verifizieren, damit wir Dich bezahlen können. Dafür haben wir Dir einen Brief mit einem Bestätigungscode geschickt."
+        },
+        "CONFIRMATION": {
+            "CONTINUE": "Weiter",
+            "HEADING": "Bitte bestätige Deine Adresse"
+        },
+        "CONTACT": "Wenn Du sicher bist, dass die Adresse korrekt ist, wende Dich bitte an unseren Kundenservice.",
+        "EXISTING_ADDRESS": {
+            "ADDRESS": "Adresse",
+            "EDIT": {
+                "INFO": "Wenn Du Deine Adresse bearbeitest, müssen wir sie erneut verifizieren.",
+                "LINK": "Bearbeiten"
+            },
+            "LETTER": {
+                "DESCRIPTION": "Der Brief wird in Kürze bei Dir eintreffen. Bei Fragen wende Dich bitte an unseren Kundenservice.",
+                "HEADING": "Bestätigungscode per Post versendet"
+            },
+            "VERIFIED": "Verifizierte Adresse"
+        },
+        "FAILED": {
+            "ACTION": "Bitte sende uns eine Mail mit Deiner Nutzer-ID und Deiner Anschrift. Wir senden Dir dann einen Bestätigungscode per Post.",
+            "HEADING": "Wir konnten Deine Adresse leider nicht finden",
+            "HEADING_DESIGN": "Wir konnten Dein Design leider nicht veröffentlichen",
+            "HEADING_SHOP": "Wir konnten Deinen Shop leider nicht aktivieren",
+            "LAST_ADDRESS": "Diese Adresse hast Du angegeben:",
+            "PHONE_TIMES": "Mo - Fr, 9 - 17 Uhr (Festnetztarif)",
+            "SUBHEADING": "Damit wir Dich bezahlen können, müssen wir Deine Adresse verifizieren."
+        },
+        "GOOGLE_TC": "Spreadshirt nutzt Google Maps Autocomplete, um Deine Eingabe zu prüfen und Adressfehler zu vermeiden. Weitere Informationen findest Du in den <a href=\"https://developers.google.com/maps/terms\" &#10;target=\"_blank\">AGB</a> und in den <a &#10;href=\"http://www.google.com/intl/de/policies/privacy/\" &#10;target=\"_blank\">Datenschutzbestimmungen</a> von Google.",
+        "HARDCHECK": {
+            "FAILED": "Code ungültig.",
+            "HEADING": "Bitte gib Deinen Bestätigungscode ein",
+            "INPUT_LABEL": "Bestätigungscode"
+        },
+        "VALIDATE_INFO": "Wir verifizieren die Adresse, sobald Du die Änderungen speicherst.",
+        "VALIDATION_FAILED": "Wir konnten Deine Adresse leider nicht finden. Bitte gib eine gültige Adresse ein.",
+        "VERIFIED": {
+            "EDIT": "Du bearbeitest eine bereits verifizierte Adresse.",
+            "INFO": "Deine Adresse wurde verifiziert. Bitte überprüfe und bestätige sie noch einmal."
+        }
+    },
+    "POS_EXPLANATION": {
+        "HEADING": "Das bieten Dir die verschiedenen Verkaufskanäle",
+        "LINK": "Die Vorteile auf einen Blick",
+        "MP": {
+            "POINT1": "verdienst Du Deinen Designpreis bei jedem Verkauf",
+            "POINT2": "machen wir das Marketing für Dich: Promos, Newsletter, Blog, u.v.m.",
+            "POINT3": "können Millionen Kunden jedes Jahr Deine Designs sehen",
+            "PREFIX": "Verkaufst Du bei"
+        },
+        "SHOP": {
+            "HEADING": "Deinem Shop",
+            "POINT1": "verdienst Du bis zu 60% der Einnahmen zusätzlich zu Deinem Designpreis",
+            "POINT2": "vermarktest Du Deine Designs und Deine Marke direkt an Deine Zielgruppe",
+            "POINT3": "gestaltest Du das ganze Aussehen Deines Shops selbst, um Deine Marke widerzuspiegeln",
+            "PREFIX": "Verkaufst Du in"
+        }
+    },
+    "POS": {
+        "ACTIVATE_MP_LABEL": "Aktivieren",
+        "HEADING": "Verkaufskanäle",
+        "NEW_SHOP_LISTPAGE_BETA_BOX": "Shopbetreiber, Deine Meinung zur neuen Detailseite: <a href=\"https://www.spreadshirt.de/blog/2018/03/19/jetzt-testen-die-neue-detailseite/\" target=\"_blank\">Teste jetzt die Betaversion</a>",
+        "VISIT_SHOWROOM": "Showroom besuchen",
+        "SHOWROOM": "Dein Marktplatz-Showroom",
+        "MARKETPLACE": {
+            "ACTIVATE_HEADLINE": "Aktiviere Deinen Showroom und präsentiere Dich auf dem Marktplatz",
+            "ACTIVATE_DIALOG": {
+                "HEADING": "Marktplatz und Showroom sind jetzt bereit",
+                "BENEFIT1": "Biete ab sofort Deine Designs auf Spreadshirts Marktplatz an",
+                "BENEFIT2": "Personalisiere Deinen persönlichen Showroom ganz in Deinem Stil",
+                "BENEFIT3": "Nutze Deine Marktplatz-Statistik und reagiere auf Trends, um Deine Verkaufschancen zu erhöhen"
+            }
+        },
+        "SHOP_SETTINGS": {
+            "LIST_SIZE_FILTER": "Größenfilter",
+            "LIST_COLOR_FILTER": "Farbfilter",
+            "LIST_SHOW_COLORS_AND_SIZES": "Verfügbare Farben und Größen",
+            "DESIGN_SLIDER": "Designvorschläge"
+        }
+    },
+    "REGISTER": {
+        "CHANGE_LATER": "Deinen Shop-Namen kannst Du später noch ändern.",
+        "CHOOSE_SHOP_NAME": "Shop-Name",
+        "EXISTING_PARTNER": "Einloggen",
+        "HEADER": "Gratis Konto erstellen",
+        "LOGIN_LINK_QUESTION": "Du hast schon ein Konto?",
+        "LOGIN_LINK_TEXT": "Hier einloggen",
+        "MP": {
+            "BENEFIT_COMMISSION": "Mach Dein Talent zu Geld. Völlig kostenlos.",
+            "BENEFIT_DESIGN_ON_BESTSELLING_PRODUCTS": "Zugang zu exklusiven Kampagnen, Amazon & eBay",
+            "BENEFIT_TRAFFIC_MARKETING": "Präsentiere Deine Designs 110.000 Kunden täglich",
+            "HEADER": "Verkaufe auf dem Marktplatz"
+        },
+        "NEW_PARTNER": "Konto erstellen",
+        "PASSWORD": "Passwort wählen",
+        "PASSWORD_CONFIRM": "Passwort wiederholen",
+        "REGISTER_LINK_QUESTION": "Noch nicht angemeldet?",
+        "REGISTER_LINK_TEXT": "Hier registrieren",
+        "SHOP": {
+            "BENEFIT_COMMISSION": "Verdiene mehr als überall sonst",
+            "BENEFIT_CONTROL_LOOK": "Individuelles Look-and-Feel für Deinen Shop",
+            "BENEFIT_CONTROL_PRODUCTS": "Du legst Dein Sortiment selbst fest",
+            "HEADER": "Eröffne Deinen Shop"
+        },
+        "SUBMIT": "Registrieren"
+    },
+    "SA": {
+        "action": {
+            "back": "Zurück",
+            "cancel": "Abbrechen",
+            "collapsePreview": "Vorschau verkleinern",
+            "delete": "Löschen",
+            "edit": "Ändern",
+            "expandPreview": "Vorschau vergrößern",
+            "preview": "Vorschau",
+            "publishChanges": "Änderungen übernehmen",
+            "search": "Suchen"
+        },
+        "colorpicker": {
+            "cancel": "Abbrechen",
+            "confirm": "OK"
+        },
+        "designer": {
+            "active": "T-Shirt-Designer aktivieren",
+            "editText": "Text hinzufügen aktivieren",
+            "marketplaceDesigns": "Spreadshirt-Designs aktivieren",
+            "uploadImages": "Bild hochladen aktivieren"
+        },
+        "device": {
+            "desktop": "PC",
+            "mobile": "Handy",
+            "tablet": "Tablet"
+        },
+        "dialogs": {
+            "offlineShop": {
+                "activate": "Shop aktivieren",
+                "heading": "Dein Shop ist für Kunden noch nicht sichtbar",
+                "remindLater": "Später erinnern",
+                "subheading": "Wenn Dir Dein Shop gefällt, aktiviere ihn jetzt."
+            }
+        },
+        "htmlCss": {
+            "css": {
+                "description": "Dieses CSS gilt für Deinen gesamten Shop. <a href=\"//help.spreadshirt.com/hc/de/articles/207487805\"_blank\">Mehr Infos über CSS in Deinem Shop</a>",
+                "title": "Shop CSS bearbeiten"
+            },
+            "cssPrefix": {
+                "description": "ACHTUNG: Nur anwenden, wenn Dein CSS nicht korrekt dargestellt wird.",
+                "title": "Ich verwende Frameworks (z.B. Bootstrap)."
+            },
+            "footerHtml": {
+                "description": "Passe hier die Fußzeile Deines Shops an. Bilder befinden sich in diesem Ordner: //shop.spreadshirt.de/[Shopname]/shopData/images/[filename] Wenn Du speicherst, wird der Code geprüft und eventuell angepasst um für eine korrekte Darstellung zu sorgen. <a href=\"//help.spreadshirt.com/hc/de/articles/206802269\" target=\"_blank\">Mehr Infos hier</a>",
+                "title": "HTML für Shop Footer bearbeiten"
+            },
+            "generatedCss": {
+                "description": "Aufgrund einiger Deiner Einstellungen wird dieses CSS automatisch generiert. Dabei wird niemals Dein eigenes CSS überschrieben (Eingabefeld unten).",
+                "title": "Automatisch generiertes CSS"
+            },
+            "headerHtml": {
+                "description": "Passe hier die Kopfzeile Deines Shops an. Du kannst z.B Links, Texte oder Banner einfügen. Der Ordner für die Bilder ist: //shop.spreadshirt.de/[Shopname]/shopData/images/[filename]. Aus Sicherheitsgründen werden script- und style-tags sowie inline JavaScript automatisch entfernt. Wenn Du speicherst, wird der Code geprüft und eventuell angepasst um für eine korrekte Darstellung zu sorgen. <a href=\"//help.spreadshirt.com/hc/de/articles/206802269\" target=\"_blank\">Mehr Infos hier</a>",
+                "title": "HTML für Shop-Header bearbeiten"
+            },
+            "htmlError": "html invalid",
+            "javascript": {
+                "description": "Gib hier JavaScript an, das auf der Seite ausgeführt wird",
+                "title": "JavaScript"
+            }
+        },
+        "imageUpload": {
+            "chooseFile": "Datei wählen",
+            "dropInfo": "Design hierherziehen, um es hochzuladen",
+            "legal": "Durch das Hochladen bestätige ich, dass ich Inhaber des Urheberrechts oder einer Lizenz zur Nutzung bin.",
+            "message": {
+                "genericUploadError": "Leider ist ein Fehler aufgetreten. Bitte versuche es später erneut.",
+                "imageSizeLimit": "Leider werden Bilder größer als 400 KB und 1400x600 Pixel nicht unterstützt.",
+                "invalidFormat": "Leider wird dieses Dateiformat nicht unterstützt. Bitte lade Datein im Format .gif, .ico, .jpg oder .png hoch."
+            }
+        },
+        "imprint": {
+            "description": "Sichtbar für Kunden unter „Impressum“ in der Fußzeile",
+            "form": {
+                "city": "Ort",
+                "company": "Firma",
+                "country": "Land",
+                "email": "E-Mail-Adresse",
+                "lastname": "Nachname",
+                "name": "Vorname",
+                "phone": "Telefonnummer",
+                "postal": "PLZ",
+                "registrationNo": "Handelsregisternummer",
+                "street": "Straße",
+                "streetNo": "Hausnr.",
+                "useDeviatingAddress": "Impressum bearbeiten",
+                "useSpreadshirt": "Anmeldedaten verwenden"
+            },
+            "headline": "Impressum"
+        },
+        "inactive": {
+            "createLink": "Shop eröffnen",
+            "description": "Schade, der Shop wurde noch nicht aktiviert. Bitte komm ein anderes Mal wieder.",
+            "headline": "Dieser Shop ist nicht aktiv",
+            "shopButton": "Bei Spreadshirt einkaufen"
+        },
+        "inactiveBanner": {
+            "button": "Shop aktivieren",
+            "description": "Aktiviere ihn jetzt und Deine Kunden profitieren von 15% Rabatt in den ersten zwei Wochen.",
+            "headline": "Dein Shop ist nicht aktiv."
+        },
+        "integration": {
+            "embedJs": {
+                "description": "Kopiere den unten stehenden JavaScript-Code und füge ihn ins HTML Deiner Webseite ein.",
+                "name": "Shop in Website einbetten mit JavaScript"
+            },
+            "redirectUrl": {
+                "description": "Wenn Du Deinen Shop in Deine Website eingebunden hast, möchtest Du Besucher von {{ shopURL }} vielleicht auch auf Deine Website mit integriertem Shop weiterleiten. Bitte gib hier dafür die genaue Adresse Deiner Website an. Die Nutzer werden dann automatisch weitergeleitet. Wichtig: Die Adresse muss mit „http“ bzw. „https“ beginnen!",
+                "title": "Deinen Shop mit Deiner Website verknüpfen"
+            },
+            "webhosting": {
+                "description": "Wähle einen Dienst und erfahre mehr über Rabattaktionen",
+                "title": "Einbinden mit Plug-Ins"
+            }
+        },
+        "languageSwitch": "Kunden können die Sprache des Shops wechseln",
+        "layout": {
+            "colorscheme": {
+                "description": "Hier kannst Du die Farben Deines Shops individuell anpassen",
+                "predefined": "Wähle ein Farbschema",
+                "scheme1": "Crème",
+                "scheme2": "Frisch",
+                "scheme3": "Sommer",
+                "scheme4": "Dark Wave",
+                "scheme5": "Neon",
+                "scheme6": "Minimal",
+                "schemedefault": "Standardfarben",
+                "title": "Farbschema",
+                "usedefault": "Oder wähle ein fertiges Farbschema"
+            },
+            "headerImage": {
+                "checkboxLabel": "Header-Grafik verwenden",
+                "description": "Lade hier ein Bild hoch, das im Header Deines Shops angezeigt wird. Ideales Format: 1400x250 Pixel.",
+                "galleryTitle": "Klicke auf ein Bild, um es als Deine Header-Grafik festzulegen.",
+                "noHeaderImage": "Keine Header-Grafik anzeigen",
+                "noImage": "Es sind noch keine Bilder vorhanden. <a href=\"/shop-area/{{ shopId }}/gfx/graphics\">Bild hochladen </a>",
+                "saveButton": "Bild auswählen",
+                "title": "Header-Grafik anzeigen"
+            },
+            "image": {
+                "deleteConfirmation": "Möchtest Du das Bild wirklich löschen?",
+                "options": {
+                    "copyUrl": "Bild-URL kopieren",
+                    "deleteNotPossible": "Dieses Bild kann nicht gelöscht werden. Es wird angezeigt, wenn kein anderes Bild zur Verfügung steht.",
+                    "label": "Optionen",
+                    "setAsHeader": "Als Headerbild festlegen"
+                },
+                "uploadedImages": {
+                    "label": "Deine Header-Grafiken"
+                }
+            },
+            "owncolorscheme": {
+                "box": {
+                    "color1": "Hintergrund der Navigation (Header und Footer)",
+                    "color2": "Wichtigste Buttons, aktivierte Elemente",
+                    "color3": "Hintergrund des Shops",
+                    "color4": "Zweite Farbe im Footer",
+                    "color5": "Sekundäre Buttons, Text",
+                    "color6": "Navigationstext",
+                    "headline": "Eigenes Farbschema bearbeiten"
+                },
+                "edit": "Bearbeiten",
+                "heading": "Eigenes Farbschema",
+                "title": "Erstelle Dein eigenes Farbschema"
+            },
+            "tilebackground": {
+                "title": "Hintergrundfarbe für Produkte",
+                "transparency": "Transparent"
+            }
+        },
+        "menubar": {
+            "preview": "Shop besuchen",
+            "save": "Speichern"
+        },
+        "messages": {
+            "error": {
+                "fetch": "Fehler beim Laden der Daten",
+                "save": "Speichern nicht erfolgreich"
+            },
+            "success": {
+                "save": "Deine Änderungen wurden übernommen"
+            },
+            "warning": {
+                "invalid": "Bitte überprüfe Deine Angaben"
+            }
+        },
+        "navigation": {
+            "advanced": {
+                "label": "Erweitert"
+            },
+            "basicSettings": {
+                "label": "Shopname & Info"
+            },
+            "checkoutSettings": {
+                "description": "Passe Header und Footer Deines Checkouts per HTML an das Layout Deines Shop an. Wenn Du Bilder einbinden möchtest, lade diese unter „Grafiken“ hoch.",
+                "label": "Checkout-Einstellungen"
+            },
+            "contentService": {
+                "label": "Inhalt"
+            },
+            "css": {
+                "label": "CSS"
+            },
+            "dataExport": {
+                "description": "Exportiere Finanzdaten, Produkt-URLs und andere Daten in eine Tabelle, um sie auszuwerten oder für Produktfeeds von Google, Bing o.Ä. zu nutzen.",
+                "label": "Datenexport"
+            },
+            "designer": {
+                "label": "T-Shirt-Designer"
+            },
+            "designerSettings": {
+                "description": "Stelle hier ein, ob Du 20% Affiliate-Provision erhalten möchtest oder nicht.",
+                "label": "Einstellungen"
+            },
+            "designList": {
+                "label": "Design-Übersicht"
+            },
+            "designSorting": {
+                "label": "Designs sortieren"
+            },
+            "detailPage": {
+                "description": "Wenn ein Kunde ein Produkt aus der Liste auswählt, gelangt er in die Detailansicht.",
+                "label": "Detailseite"
+            },
+            "editShop": {
+                "label": "Shop bearbeiten"
+            },
+            "gfx": {
+                "description": "Lade hier Grafiken hoch, die Du im Header oder Footer Deines Shops bzw. Shop-Checkouts verwenden möchtest.",
+                "label": "Grafiken"
+            },
+            "globalSettings": {
+                "description": "Diese Einstellungen gelten für Deinen gesamten Shop.",
+                "label": "Allgemein"
+            },
+            "graphics": {
+                "label": "Uploads"
+            },
+            "headerFooter": {
+                "label": "Header & Footer"
+            },
+            "headerImage": {
+                "label": "Header-Grafik"
+            },
+            "htmlCSS": {
+                "label": "HTML & CSS"
+            },
+            "imprint": {
+                "label": "Impressum"
+            },
+            "integration": {
+                "label": "Shop in Website einbinden"
+            },
+            "invalidData": "Bitte überprüfe noch einmal Deine Eingabe.",
+            "invalidDataFields": "Bitte überprüfe die rot markierten Felder.",
+            "invoiceLogo": {
+                "description": "Lade Dein eigenes Logo hoch und wir drucken es auf die Rechnungen, die Deine Kunden mit ihrer Bestellung erhalten.",
+                "label": "Rechnungslogo"
+            },
+            "language": {
+                "label": "Sprache & Währung"
+            },
+            "layout": {
+                "label": "Header & Farben"
+            },
+            "linking": {
+                "label": "URL & Verlinkung"
+            },
+            "ownCategories": {
+                "description": "Lege eigene Produktthemen an. Diese Themen werden in Deinem Shop als Navigation an der linken Seite angezeigt. Sie helfen Deinen Kunden, sich einen Überblick über Dein Angebot zu verschaffen.",
+                "label": "Eigene Themen"
+            },
+            "ownColorScheme": {
+                "label": "Eigenes Farbschema"
+            },
+            "pages": {
+                "label": "Seitenansicht"
+            },
+            "password": {
+                "label": "Passwortschutz"
+            },
+            "pricing": {
+                "description": "Stelle hier ein, ob Du die Affiliate-Provision erhalten möchtest oder nicht.",
+                "label": "Affiliate-Provision"
+            },
+            "productArrangement": {
+                "description": "Lege fest, welche und wieviele Deiner Designs und Produkte angezeigt werden. Wähle den automatischen Sortiermodus, der am besten zu Deinem Angebot passt.",
+                "sorting": {
+                    "label": "Reihenfolge der Designs festlegen"
+                }
+            },
+            "productList": {
+                "description": "Die Produktliste ist auch die Startseite Deines Shops. Kunden sehen dort alle Deine Produkte.",
+                "label": "Produktliste"
+            },
+            "productSorting": {
+                "label": "Sortieren"
+            },
+            "seo": {
+                "label": "Shopname & SEO"
+            },
+            "shop": {
+                "label": "Shop"
+            },
+            "shopOverview": {
+                "label": "Verkaufskanäle"
+            },
+            "shopStatus": {
+                "label": "Shopstatus"
+            },
+            "socialMedia": {
+                "title": "Social Media Icons"
+            },
+            "tracking": {
+                "label": "Tracking"
+            }
+        },
+        "pages": {
+            "articlecat": {
+                "label": "Shopthemen anzeigen",
+                "text": "Wenn Du Unterthemen angelegt hast, kannst Du diese in der linken Navigation anzeigen lassen."
+            },
+            "description": "Folgende Einstellungen gelten für Deinen gesamten Shop.",
+            "detailpage": {
+                "articledescription": {
+                    "label": "Artikelbeschreibung",
+                    "text": "Wenn Du bereits in der alten Version Deines Shops eine Artikelbeschreibung für das Produkt bereitgestellt hattest, kannst Du sie hier ebenfalls aktivieren."
+                },
+                "description": "Folgende Einstellungen betreffen die Detailansicht Deiner Produkte.",
+                "detailLayout": {
+                    "flexi": {
+                        "productSuggestions": {
+                            "description": "Biete in der Detailansicht weitere Produkte mit demselben Design an, damit Deine Kunden eine größere Auswahl haben."
+                        }
+                    },
+                    "productSuggestions": {
+                        "description": "Biete in der Detailansicht weitere Produkte mit demselben Design an, damit Deine Kunden eine größere Auswahl haben. Du hast dabei folgende Optionen:"
+                    }
+                },
+                "productSuggestions": {
+                    "label": "Produktvorschläge"
+                },
+                "sharing": {
+                    "label": "Social Media Icons",
+                    "text": "Wählst Du diese Option, hat der Kunde die Möglichkeit, den Artikel kinderleicht auf sozialen Netzwerken zu teilen."
+                },
+                "virtual": {
+                    "label": "Virtuelle Produkte",
+                    "text": "Wähle diese Option, wenn Dein Design automatisch auf verschiedenen Produkten angeboten werden soll, selbst wenn Du diese Artikel nicht angelegt hast. Du hast die Wahl zwischen zwei möglichen Platzierungen der virtuellen Produkte in der Detailansicht."
+                }
+            },
+            "detailPage": {
+                "detailLayout": {
+                    "basic": {
+                        "label": "Kompakt",
+                        "text": "Zeige Deinen Kunden alle verfügbaren Details an, wie Größen, Farben, Produktinformationen. Produktvorschläge gehören nicht dazu."
+                    },
+                    "centered": {
+                        "label": "Erweitert",
+                        "text": "Stelle Dein Produkt in den Mittelpunkt, mit großer Produktansicht und weniger Details. Zeige auf Wunsch Produktvorschläge mit Deinem Design an."
+                    },
+                    "deactivate": {
+                        "label": "Deaktivieren",
+                        "text": "Deine Detailansicht zeigt nur das ausgewählte Produkt."
+                    },
+                    "flexi": {
+                        "activate": {
+                            "label": "Aktivieren"
+                        },
+                        "deactivate": {
+                            "label": "Deaktivieren",
+                            "text": "Deine Detailansicht zeigt nur das ausgewählte Produkt."
+                        },
+                        "productSuggestions": {
+                            "title": "Zusätzliche Produkte anzeigen"
+                        }
+                    },
+                    "label": "Ausrichtung",
+                    "other": {
+                        "label": "Selbst erstellte Produkte",
+                        "text": "Zeige weitere Produkte mit dem Design an, das der Kunde gerade ausgewählt hat. Lege dafür mehrere Produkte pro Design selbst an."
+                    },
+                    "productCentered": {
+                        "label": "Produkt mittig"
+                    },
+                    "productLeft": {
+                        "label": "Produkt links"
+                    },
+                    "productSuggestions": {
+                        "title": "Zusätzliche Produkte anzeigen"
+                    },
+                    "title": "Layout",
+                    "vp": {
+                        "label": "Automatisch erstellte Produkte",
+                        "text": "Zeige zusätzlich automatisch erstellte Produkte mit dem Design an, das der Kunde gerade ausgewählt hat. Dafür reicht es, wenn ein Produkt pro Design angelegt ist."
+                    }
+                }
+            },
+            "headline": "Seitenansicht",
+            "imagesize": {
+                "label": "Bildauflösung",
+                "text": "Erscheinen die Vorschaubilder Deiner Produkte verpixelt, kannst Du hier die Bildauflösung erhöhen."
+            },
+            "itemcount": {
+                "label": "Artikel pro Seite",
+                "text": "So viele Produkte werden auf einmal angezeigt. Mit jedem Klick auf „Mehr anzeigen“ werden noch einmal so viele Produkte geladen."
+            },
+            "listmode": {
+                "design": {
+                    "label": "Designs",
+                    "text": "Mit dieser Einstellung werden in Deinem Shop zuerst alle verfügbaren Designs angezeigt. Mit Klick auf ein Design gelangt der Kunde auf eine Liste aller verfügbaren Produkte mit diesem Design."
+                },
+                "designWithPT": {
+                    "label": "Zeige Produktfarbe als Designhintergrund"
+                },
+                "productlist": {
+                    "label": "Produkte",
+                    "text": "Mit dieser Einstellung werden in Deinem Shop zuerst alle verfügbaren Produkte angezeigt. Mit Klick auf ein Produkt gelangt der Kunde direkt in die Detailansicht."
+                },
+                "title": "Auf Startseite anzeigen"
+            },
+            "productList": {
+                "activateListPage": {
+                    "label": "Produktliste aktivieren"
+                },
+                "description": "Hier stellst Du ein, wie Deine Produkte auf der Listenseite angezeigt werden.",
+                "headline": {
+                    "label": "Überschriften",
+                    "text": "Verbessere Deine Suchergebnisse bei Google & Co., indem Du Deiner Produktübersicht Überschriften zufügst. Die Überschriften generieren wir automatisch aus gewählter Kategorie, Produktkategorie und ggf. Shopkategorie (falls Du Shopkategorien angelegt hast). Hat z.B. ein Kunde die Kategorie „Männer“, die Produktkategorie „T-Shirts“ und die Shopkategorie „Eulen\" gewählt, erscheint folgende Überschrift: \"Eulen T-Shirts für Männer\". Gibt außerdem ein Kunde diese Wörter bei einer Suchmaschine ein, hat Dein Shop mit diesen Überschriften eine erhöhte Chance, gefunden zu werden."
+                },
+                "limitProducts": {
+                    "label": "Produkte pro Design begrenzen"
+                },
+                "pageHeadline": "Produktliste",
+                "price": {
+                    "label": "Preise",
+                    "text": "Wenn Du diese Option wählst, wird in der Produktübersicht bereits der Preis angezeigt."
+                },
+                "properProductName": {
+                    "label": "Produktnamen"
+                },
+                "sharing": {
+                    "label": "Social Media Links anzeigen",
+                    "text": "Wählst Du diese Option, hat der Kunde die Möglichkeit, den Artikel kinderleicht auf sozialen Netzwerken zu teilen."
+                },
+                "showListPrice": {
+                    "label": "Preise"
+                },
+                "showSearch": {
+                    "label": "Suchleiste"
+                },
+                "virtual": {
+                    "allProducts": "Alle verfügbaren Produkte mit meinen Designs anbieten",
+                    "allProductsDescription": "So kannst Du Deinen Kunden mit wenig Aufwand eine große Produktvielfalt bieten.",
+                    "createdProducts": "Produktvorschläge nur mit ähnlichen Produkttypen",
+                    "createdProductsDescription": "Kategorien: Männer-, Frauen-, Kinderprodukte, Accessoires, Handyhüllen. Designs werden nur auf Produkten der Kategorie angeboten, in der sie ursprünglich erstellt wurden. So kannst du z.B. verhindern, dass nicht jugendfreie Motive auf Kinderprodukten angeboten werden.",
+                    "label": "Automatische Produkterstellung",
+                    "none": "Nicht anwenden",
+                    "text": "Mit jedem hochgeladenen Design erstellen wir automatisch Produkte für Deinen Shop. Lege hier die Optionen fest."
+                }
+            },
+            "productSorting": {
+                "description": "Bewege die Bilder per Drag & Drop, um festzulegen, wie Kunden sie im Shop angezeigt bekommen.",
+                "design": {
+                    "description": "Bewege Deine Designs per Drag & Drop, um die Reihenfolge im Shop festzulegen.",
+                    "label": "Produkte nach Designs sortieren"
+                },
+                "designProductBased": {
+                    "description": "Bewege Deine Designs per Drag & Drop, um die Reihenfolge Deiner Produkte im Shop festzulegen. Die Anzahl der Produkte pro Design legst Du im Schritt davor fest.",
+                    "label": "Designs sortieren"
+                },
+                "listMode": {
+                    "label": "Sortiermodus"
+                },
+                "listPageHeading": "Liste",
+                "listPageItemsHeading": "Elemente",
+                "placeholder": "Hierher ziehen",
+                "product": {
+                    "description": "Bewege Deine Produkte per Drag&Drop, um die Reihenfolge im Shop festzulegen.",
+                    "label": "Produkte einzeln sortieren"
+                },
+                "productsPerDesign": {
+                    "all": {
+                        "label": "Alle"
+                    },
+                    "description": "Lege fest,  wieviele Produkte Du pro Design anzeigen möchtest.",
+                    "label": "Produkte pro Design"
+                },
+                "showMore": "Mehr anzeigen",
+                "shuffle": {
+                    "FULL_DIVERSITY": {
+                        "description": "Empfohlen, wenn Du sowohl viele Designs als auch viele Produkte anbietest.",
+                        "label": "Zeige ganze Vielfalt"
+                    },
+                    "heading": "Sortiermodus",
+                    "IDEA_DIVERSITY": {
+                        "description": "Empfohlen, wenn Du viele Designs und eine geringe Produktauswahl anbietest.",
+                        "label": "Zeige Designvielfalt"
+                    },
+                    "OFF": {
+                        "description": "Empfohlen, wenn Du wenige Designs auf einer großen Auswahl an Produkten anbietest.",
+                        "label": "Zeige Produktvielfalt"
+                    }
+                },
+                "title": "Sortieren"
+            },
+            "promotion": {
+                "label": "Promotionbanner automatisch anzeigen",
+                "text": "Wenn Spreadshirt eine Promotion anbietet, können auch Deine Kunden davon profitieren. Aktivierst Du diese Option, zeigen wir automatisch Promotionbanner passend zu unseren laufenden Werbeaktionen in Deinem Shop an."
+            }
+        },
+        "pricing": {
+            "commission": {
+                "label": "Affiliate-Provision"
+            },
+            "helpLink": {
+                "href": "https://help.spreadshirt.com/hc/de/articles/207233389-Affiliate-Provision",
+                "text": "Was ist die Affiliate-Provision und wie wird sie berechnet?"
+            },
+            "nullPercent": "0%",
+            "twentyPercent": "20%"
+        },
+        "shared": {
+            "copy": "Code in die Zwischenablage kopieren",
+            "form": {
+                "error": {
+                    "characters": "Bitte verwende keine Sonderzeichen wie wie z.B. +=&€§~",
+                    "email": "{{label}} ist keine valide Email Adresse",
+                    "html": "Kein gültiges HTML",
+                    "invalidUrl": "Bitte überprüfe Deine URL.",
+                    "length": "{{label}} muss zwischen {{min}} und {{max}} Zeichen lang sein.",
+                    "number": "{{label}} darf nur Zahlen beinhalten",
+                    "pattern": "{{label}} enthält ungültige Zeichen",
+                    "required": "{{label}} ist ein Pflichtfeld",
+                    "unique": "Diese URL wird bereits verwendet. Versuch es mit einer anderen.",
+                    "whitespace": "Wähle als URL ein Wort oder eine Kombination aus Zahlen und Wörtern. Nicht möglich sind Zahlen allein sowie Leerzeichen.",
+                    "wrongMax": "Bitte gib einen Wert von höchstens {{ max }} an.",
+                    "wrongMin": "Bitte gib einen Wert von mindestens {{ min }} an.",
+                    "wrongMinMax": "Bitte gib einen Wert zwischen {{ min }} und {{ max }} an."
+                }
+            }
+        },
+        "shop-area": {
+            "basicSettings": {
+                "imprint": {
+                    "label": "Impressum"
+                },
+                "nameAndLanguage": {
+                    "label": "Name, Beschreibung & Sprache"
+                }
+            }
+        },
+        "shopDashboard": {
+            "createNewShop": {
+                "description": "Mit Freiraum für Deine eigene Marke. Erreiche Deine Kunden und Fans so, wie sie Dich kennen und lieben.",
+                "error": "Beim Anlegen des Shops ist etwas schief gegangen",
+                "headline": "Zum neuen Shop in wenigen Klicks",
+                "label": "Shop eröffnen"
+            },
+            "free": "100% gratis",
+            "shopId": {
+                "label": "Shop-ID"
+            },
+            "shopStatus": {
+                "activate": "Shop aktivieren",
+                "active": "Aktiv",
+                "hidden": "Inaktiv",
+                "label": "Status"
+            }
+        },
+        "shopsettings": {
+            "description": "Finde einen passenden Namen und eine Beschreibung für Deinen Shop, damit Kunden ihn mit Suchmaschinen besser finden können.",
+            "information": {
+                "description": {
+                    "label": "Beschreibung"
+                },
+                "domain": {
+                    "name": "URL-Name",
+                    "tld": "Top-Level-Domain"
+                },
+                "headline": "Shop-Info, Sprache & Währung",
+                "name": "Name",
+                "url": {
+                    "label": "URL",
+                    "text": "Unter diesem Link ist Dein Shop erreichbar und so wird er in der Eingabezeile des Browsers für Deine Kunden angezeigt:"
+                }
+            },
+            "international": {
+                "currency": {
+                    "info": "Die Währung kann nicht mehr umgestellt werden, sobald in Deinem Shop Produkte existieren.",
+                    "label": "Währung",
+                    "text": "Währung des Landes, in dem Dein Shop aktiv ist"
+                },
+                "euShop": "Europäischen Shop verlinken",
+                "euShopConnectionDescription": "Verlinke einen europäischen Shop im Footer",
+                "label": "Sprache & Währung",
+                "language": {
+                    "all": {
+                        "label": "Alle Sprachen aktivieren"
+                    },
+                    "label": "Sprache",
+                    "text": "Standardsprache Deines Shops"
+                },
+                "linkedEuShopInfo": "Wie in der Shop-Übersicht angezeigt",
+                "linkedNaShopInfo": "Wie in der Shop-Übersicht angezeigt",
+                "naShop": "Nordamerikanischen Shop verlinken",
+                "naShopConnectionDescription": "Verlinke einen nordamerikanischen Shop im Footer"
+            }
+        },
+        "shopStatus": {
+            "active": "Aktiv",
+            "deleteDialog": {
+                "content2": "<strong>Du kannst diese Aktion nicht rückgängig machen. </strong>",
+                "description": "Bist Du sicher, dass Du Deinen Shop <strong>{{shopName}}</strong> mit der Shop-ID {{shopId}} löschen willst?",
+                "success": "Dein Shop wurde erfolgreich gelöscht",
+                "title": "Shop löschen"
+            },
+            "deleteShop": "Diesen Shop löschen",
+            "password": "Passwortgeschützt",
+            "passwordDescription": "Um diesen Shop nur ausgewählten Besuchern zugänglich zu machen, kannst Du ihn mit einem Passwort schützen. Solltest Du das Passwort vergessen, kannst Du jederzeit ein neues festlegen.",
+            "passwordMissing": "Bitte lege ein Passwort fest",
+            "passwordNote": "Bitte verwende nicht dasselbe Passwort, das Du auch für den Login in Deinen Nutzerbereich verwendest."
+        },
+        "social": {
+            "channelSelection": {
+                "button": "Weiter",
+                "title": "Wähle Deine Social Media Icons"
+            },
+            "description": "Zeige Social Media Icons in der Kopfzeile Deines Shops an (für mobile Endgeräte in der Fußzeile)",
+            "label": "Nutzername",
+            "selectChannels": "Icons hinzufügen / entfernen"
+        },
+        "successDialog": {
+            "button": {
+                "label": "Shop besuchen"
+            },
+            "coupon": {
+                "heading": "Zur feierlichen Eröffnung shoppen Deine Kunden günstiger.",
+                "label": "15% Rabatt",
+                "subheading": "Der Code ist ab sofort 14 Tage lang gültig und kann nur in Deinem Shop eingelöst werden.",
+                "redeemHint": "Den Aktionscode gibt's im Shop"
+            },
+            "description": "Ab sofort können Kunden ihn unter folgender Web-Adresse besuchen:",
+            "headline": "Es ist soweit, Dein Shop hat geöffnet!",
+            "sharing": "Verbreite gleich die gute Neuigkeit:"
+        },
+        "tracking": {
+            "checkoutTracking": {
+                "label": "Checkout"
+            },
+            "customTracking": {
+                "label": "Tracking Code"
+            },
+            "customTrackingPixels": {
+                "description": "Um andere Tools als die oben genannten zu nutzen (z.B. hotjar oder crazyegg), füge den Code hier ein:",
+                "label": "Andere Tracking Tools",
+                "snippet": "Code"
+            },
+            "description": "Passe Deinen Shop noch besser den Kundenwünschen an, indem Du Nutzerverhalten analysierst. Verbinde hier Deinen Shop mit dem Tracking Tool Deiner Wahl.",
+            "facebook": {
+                "description": "Auf Deiner <a href=\"https://www.facebook.com/ads/manager/pixel/facebook_pixel\" target=\"_blank\">Facebook Pixel Seite</a> findest Du Deine Pixel ID oben links.",
+                "label": "Facebook Pixel",
+                "pixelId": "Pixel ID"
+            },
+            "googleAnalyticsId": {
+                "description": "<a href=\"https://support.google.com/analytics/answer/1008080?hl=de#trackingID\" target=\"_blank\">Wo finde ich meine Tracking-ID?</a>",
+                "headline": "Google Analytics",
+                "label": "Google Analytics"
+            },
+            "googleWebmasterId": {
+                "description": "Verbinde Deinen Shop mit Google Search Console.",
+                "headline": "Google Search Console",
+                "label": "Google Search Console",
+                "link": "Wo finde ich meine Google-Site-Verification-ID?"
+            },
+            "headline": "Tracking",
+            "orderConfirmationPage": {
+                "label": "Bestellungen"
+            },
+            "userId": {
+                "label": "UA-XXXXX-X"
+            }
+        },
+        "volumeCommission": {
+            "head": "Bisher erreichter Erfolgsbonus",
+            "headInfo": "Erfolgsbonus",
+            "info": "Mit dem Erfolgsbonus hast Du eine zusätzliche Chance auf mehr Einnahmen. Je mehr Du verkaufst, umso höher ist Dein Bonus. Steigere Deine Einnahmen um bis zu 40% zusätzlich zur Affiliate-Provision. <a target=\"_blank\" href=\"https://help.spreadshirt.com/hc/de/articles/210769049\">Mehr erfahren</a>",
+            "status": "Verkaufe noch [MISSING_ARTICLES] Artikel bis zum [END_DATE] um [NEXT_PERCENT]% zu erreichen."
+        }
+    },
+    "SETTINGS": {
+        "TEXT": "Einstellungen"
+    },
+    "SHOPS": {
+        "ADDRESS_DIALOG": {
+            "TERMS": {
+                "INTRO": "Ja, ich akzeptiere die",
+                "SHOP_TERMS_LINK": "Allgemeinen Geschäftsbedingungen für Partner"
+            }
+        },
+        "CREATE": {
+            "BACK_TO_THEME_SELECTION": "Zurück zu den Themes",
+            "HEADING": "Neuen Shop anlegen",
+            "SHOP_NAME": "Shop-Name",
+            "SUBMIT": "Shop anlegen"
+        },
+        "THEMES": {
+            "PREVIEW": {
+                "CONTINUE": "Weiter mit diesem Theme",
+                "DESKTOP": "PC",
+                "MOBILE": "Handy",
+                "TABLET": "Tablet"
+            },
+            "SELECTION": {
+                "CHANGE": "Du kannst das Theme jederzeit wieder ändern.",
+                "FUN": {
+                    "HEADING": "Heiter",
+                    "SUBHEADING": "Freundliches Design dank pastelliger Farben."
+                },
+                "HEADING": "Wähle ein Theme für Deinen Shop aus",
+                "MUSIC": {
+                    "HEADING": "Hobby",
+                    "SUBHEADING": "Tauche mit satten Farben tief in die Materie ein."
+                },
+                "OUTDOOR": {
+                    "HEADING": "Natur",
+                    "SUBHEADING": "Erdige Farben für bodenständige Shops."
+                },
+                "PREVIEW": "Vorschau",
+                "SELECT": "Auswählen",
+                "SUMMER": {
+                    "HEADING": "Locker",
+                    "SUBHEADING": "Schafft eine entspannte Shopping-Atmosphäre."
+                },
+                "URBAN": {
+                    "HEADING": "Minimal",
+                    "SUBHEADING": "Hell und reduziert: Hier ist nichts überflüssig."
+                }
+            }
+        }
+    },
+    "STATISTICS": {
+        "COMMISSION_CALCULATED": "Der Auszahlungsbetrag kann vom hier angezeigten Guthaben abweichen. Abgaben (z.B. Umsatzsteuer) werden erst zum Zeitpunkt der Abrechnung ermittelt.",
+        "CREDIT": "Guthaben",
+        "CREDIT_DETAILS": {
+            "AMOUNT": "Betrag",
+            "DATE": "Buchungsdatum",
+            "ENTRY": "Art",
+            "ENTRY_TYPE": {
+                "AFFILIATE_COMMISSION": "Affiliate-Provision",
+                "DESIGN_COMMISSION": "Designpreis",
+                "PAYOUT": "Auszahlung",
+                "ROLLBACK": "Auszahlung zurück",
+                "UNKNOWN": "Unbekannt",
+                "VOLUME_COMMISSION": "Erfolgsbonus"
+            },
+            "HEADING": "So ergibt sich Dein Guthaben",
+            "NO_RESULTS": "Keine Einträge im gewählten Zeitraum",
+            "POS": "Verkaufskanal",
+            "SUBHEADING": "Guthaben wird etwa 14 Tage nach dem jeweiligen Verkauf hier aufgeführt."
+        },
+        "DESIGN_RECORDS": "Designbilanz",
+        "DESIGNS_SOLD": "Verkaufte Designs",
+        "DOWNLOAD_CSV": "Als CSV herunterladen",
+        "MARKETPLACE_SALES": "Marktplatz-Verkäufe",
+        "ORDER_NUMBER": "Bestellnummer",
+        "OVERVIEW": "Übersicht",
+        "PRODUCT_RECORDS": "Produktbilanz",
+        "PRODUCTS_SOLD": "Verkaufte Produkte",
+        "SALE_DETAILS": {
+            "COMMISSION": "Vergütung",
+            "ITEMS": "Artikel",
+            "NO_FLEXI_DESCRIPTION": "Dieses Design wurde in der Zwischenzeit gelöscht. Zu gelöschten Designs speichern wir keine Informationen.",
+            "NO_FLEXI_HEADING": "Designdetails sind nicht mehr verfügbar",
+            "NO_RESULTS": "Keine Verkäufe im gewählten Zeitraum",
+            "ORDERS": "Bestellung(en)",
+            "POS": "Verkaufskanal",
+            "PRICE": "Verkaufspreis",
+            "QUANTITY": "Anzahl",
+            "SHIPPING": "Lieferland",
+            "STATUS_EXPLANATION": "Erläuterungen zum Status",
+            "STATUS": {
+                "CANCEL": {
+                    "DESCRIPTION": "Die Bestellung wurde storniert. Es wird keine Vergütung gutgeschrieben.",
+                    "NAME": "Storniert"
+                },
+                "CHARGED_BACK": {
+                    "DESCRIPTION": "Wir haben keine Zahlung erhalten und können keine Vergütung gutschreiben.",
+                    "NAME": "Zahlungsausfall"
+                },
+                "COMMISSION_PAID": {
+                    "DESCRIPTION": "Die Vergütung für diese Bestellung wurde Deinem Nutzerkonto gutgeschrieben.",
+                    "NAME": "Vergütung gutgeschrieben"
+                },
+                "NEW": {
+                    "DESCRIPTION": "Wir haben die Bestellung entgegengenommen und werden sie schnellstmöglich bearbeiten.",
+                    "NAME": "Neu"
+                },
+                "PROGRESS": {
+                    "DESCRIPTION": "Die bestellten Artikel werden zur Zeit bedruckt.",
+                    "NAME": "In Bearbeitung"
+                },
+                "RETURN": {
+                    "DESCRIPTION": "Die bestellten Artikel wurden vom Kunden nicht in Empfang genommen oder zurückgeschickt. Es wird keine Vergütung gutgeschrieben.",
+                    "NAME": "Rückgabe"
+                },
+                "SENT_AND_PAID": {
+                    "DESCRIPTION": "Die Bestellung ist vollständig abgewickelt. Deine Vergütung wird 14 Tage nach Versand der Ware gutgeschrieben.",
+                    "NAME": "Verschickt und bezahlt"
+                },
+                "SENT": {
+                    "DESCRIPTION": "Die Bestellung wurde bearbeitet und die Ware verschickt. Deine Vergütung wird 14 Tage nach Versand der Ware gutgeschrieben.",
+                    "NAME": "Verschickt"
+                },
+                "WAIT": {
+                    "DESCRIPTION": "Die Bestellung kann vorerst nicht bearbeitet werden (z.B. Vorkasse nicht bezahlt, Design muss geprüft werden, unvollständige Adresse, o.Ä.). Die Vergütung kann daher noch nicht gutgeschrieben werden. Wir sind um eine schnelle Bearbeitung der Bestellung bemüht.",
+                    "NAME": "Wartet"
+                }
+            }
+        },
+        "SALES": "Verkäufe",
+        "SHOP_ORDERS": "Bestellungen",
+        "SHOP_REFERRERS": "Referrer",
+        "SHOP_SALES": "Shop-Verkäufe",
+        "SHOP_TOP_TEN": "Top Ten",
+        "TAXES_INCLUDED": "Steuern enthalten",
+        "TO_TOP": "Nach oben"
+    },
+    "UPLOADS": {
+        "ALERTS": {
+            "NEW_DESIGN_TEXT": "Finde jetzt gute Stichwörter, Beschreibungen und Preiseinstellungen",
+            "NEW_DESIGN_TITLE": "Änderungen angenommen"
+        },
+        "DETAIL": {
+            "ADJUSTED_FILE": "Datei mit Änderungen",
+            "COLORS_DETECTED": "Erkannte Farben",
+            "COMPARE_IMAGE_HINT": "Vergleiche die Bilder um die Veränderungen zu sehen",
+            "CONVERT_TO_BITMAP": "In Bitmap konvertieren",
+            "FILE_ADJUSTED": "Wir haben Dein Design angepasst, damit es druckbar ist. Bitte bestätige die Änderungen.",
+            "FILE_REJECTED": "Deine Datei wurde abgelehnt, weil sie nicht druckbar ist.",
+            "FILE_REJECTED_HINT": "Tut uns leid, Deine Datei wurde abgelehnt, weil sie nicht druckbar ist.",
+            "ORIGINAL_FILE": "Originaldatei",
+            "UPLOAD_NEW": "Neu hochladen"
+        },
+        "LIST": {
+            "VIEW_EDIT_TEXT": "Details bearbeiten"
+        },
+        "STATUS": {
+            "FIXED": "Wurde angepasst",
+            "INITIALIZED": "Wird bearbeitet",
+            "INVALID": "Ungültig"
+        },
+        "WIDGET": {
+            "HEADER_TEXT": "Alle ausstehenden Vektor-Designs",
+            "UPLOAD_APPROVED": "Vektor-Design(s) OK",
+            "UPLOAD_DATA_CHANGED_MESSAGE": "Vektor-Designs aktualisiert"
+        }
+    },
+    "WELCOME": {
+        "HEADING": "Willkommen in Deinem Partnerbereich!",
+        "SKIP_ONBOARDING": "Erkunde auf eigene Faust",
+        "START_ONBOARDING": "Lass Dich herumführen"
+    }
+}
