@@ -100,3 +100,5 @@ with XDFile('test4.xd', 'r') as xd:
 
 with io.open('output.json', 'w', encoding='utf-8') as outfile:
     outfile.write(unicode(json.dumps(database, indent=4, ensure_ascii=False)))
+    
+#test for git
