@@ -774,13 +774,14 @@
     }, 
     "DESIGNS": {
         "TOOLTIPS": {
-            "TAG_QUALITY": {
-                "DESCRIPTION": "Great, now find some more tags!", 
-                "RECOMMENDED_TAGS": "{{MIN_TAGS}} - {{MAX-TAGS}} tags recommended"
-            }, 
             "TOOLTIP_LABEL": "Warum ist das wichtig?", 
             "TAGS": "Mit Stichwörtern finden Kunden und Suchmaschinen Dein Design. Finde mindestens 3 Begriffe, die Dein Design gut beschreiben. Bestätige jedes Stichwort mit 'Enter'", 
-            "DESCRIPTION": "Wenn Kunden mit Suchbegriffen Dein Design gefunden haben, können sie mithilfe einer guten Beschreibung davon überzeugt werden, dass Dein Motiv das richtige für sie ist. Auch Suchmaschinen können es mit einem gelungenen Beschreibungstext besser den Kunden als Ergebnis anbieten.", 
+            "DESCRIPTION": {
+                "": "Great, now find some more tags!"
+            }, 
+            "RECOMMENDED_TAGS": {
+                "": "{{MIN_TAGS}} - {{MAX-TAGS}} tags recommended"
+            }, 
             "NAME": "Finde einen passenden Namen. Ein kurzer, einprägsamer Name ist ideal, um Dein Design wiedererkennbar zu machen."
         }, 
         "POINTS_OF_SALE": "Verkaufskanäle", 
@@ -809,7 +810,13 @@
             "NAV_LABEL": "Auswählen"
         }, 
         "DIMENSIONS": "Maße", 
+        "TEST_NEW": {
+            "": "Describe your design with a good name and tags"
+        }, 
         "NAME_ACTIVE": "Finde einen passenden Namen", 
+        "GIT_TEST": {
+            "": "Tricks"
+        }, 
         "RELATED_TAGS": "Vorschläge für Stichwörter", 
         "MODIFIED": "Zuletzt bearbeitet", 
         "GUIDE": {
@@ -955,6 +962,9 @@
                 "HEADING": "Wähle eine Kollektion für Dein Design aus"
             }
         }, 
+        "GIT_TEST_NEW": {
+            "": "Neuer Test"
+        }, 
         "TAGS": "Stichwörter", 
         "STATUS": {
             "READY_FOR_PUBLISHING_LONG": "Das Design ist bereit zum Veröffentlichen.", 
@@ -997,9 +1007,6 @@
         }, 
         "OVERLAY": {
             "LABEL": "Konfigurieren"
-        }, 
-        "GIT": {
-            "TEST": "Successful Git Test!"
         }, 
         "CREATED": "Erstellt", 
         "FILE_NAME": "Dateiname", 
@@ -1102,6 +1109,12 @@
             "MAXIMUM_FILE_SIZE": "10MB & 4000 x 4000px"
         }, 
         "COMMISSION": "Designpreis", 
+        "TEST": {
+            "": "Successful Git Test!", 
+            "SUCCESS": {
+                "": "Group Test SuccessVersion with breaks "
+            }
+        }, 
         "VALIDATION": {
             "BLACKLIST": {
                 "TERMS": "Folgende Begriffe sind nicht erlaubt"
