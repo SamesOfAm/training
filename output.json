@@ -6,7 +6,8 @@
                 "LENGTH": "8 oder mehr Zeichen", 
                 "STRENGTH": "Sicherheit", 
                 "HEADING": "Wir empfehlen ein Passwort mit", 
-                "NUMBER": "Mindestens einer Ziffer"
+                "NUMBER": "Mindestens einer Ziffer",
+                "REMOTE_CHANGES": "REmote Test"
             }, 
             "USERNAME": "Nutzername", 
             "PROFILE_IMAGE_UPLOAD": "Avatar ändern", 
