@@ -6,8 +6,7 @@
                 "LENGTH": "8 oder mehr Zeichen", 
                 "STRENGTH": "Sicherheit", 
                 "HEADING": "Wir empfehlen ein Passwort mit", 
-                "NUMBER": "Mindestens einer Ziffer",
-                "REMOTE_CHANGES": "REmote Test"
+                "NUMBER": "Mindestens einer Ziffer"
             }, 
             "USERNAME": "Nutzername", 
             "PROFILE_IMAGE_UPLOAD": "Avatar ändern", 
@@ -286,6 +285,11 @@
                 "INTRO": "Ja, ich akzeptiere die", 
                 "SHOP_TERMS_LINK": "Allgemeinen Geschäftsbedingungen für Partner"
             }
+        }
+    }, 
+    "MORE_REMOTE": {
+        "TEST": {
+            "CHECK": "Success!!!"
         }
     }, 
     "LOGIN": {
