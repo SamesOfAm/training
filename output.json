@@ -8,7 +8,8 @@
                 "HEADING": "Wir empfehlen ein Passwort mit", 
                 "NUMBER": "Mindestens einer Ziffer",
                 "REMOTE_CHANGES": "Pull Test",
-                "LOCAL_CHANGES": "Push Test"
+                "LOCAL_CHANGES": "Push Test",
+                "MORE_REMOTE_CHANGES": "Second Pull Test"
             }, 
             "USERNAME": "Nutzername", 
             "PROFILE_IMAGE_UPLOAD": "Avatar ändern", 
