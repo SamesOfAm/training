@@ -775,9 +775,6 @@
     }, 
     "DESIGNS": {
         "TOOLTIPS": {
-            "TAG_QUALITY": {
-                "RECOMMENDED_TAGS": "{{MIN_TAGS}} - {{MAX-TAGS}} tags recommended"
-            }, 
             "TOOLTIP_LABEL": "Warum ist das wichtig?", 
             "TAGS": "Mit Stichwörtern finden Kunden und Suchmaschinen Dein Design. Finde mindestens 3 Begriffe, die Dein Design gut beschreiben. Bestätige jedes Stichwort mit 'Enter'", 
             "DESCRIPTION": "Wenn Kunden mit Suchbegriffen Dein Design gefunden haben, können sie mithilfe einer guten Beschreibung davon überzeugt werden, dass Dein Motiv das richtige für sie ist. Auch Suchmaschinen können es mit einem gelungenen Beschreibungstext besser den Kunden als Ergebnis anbieten.", 
@@ -1005,6 +1002,9 @@
         }, 
         "CREATED": "Erstellt", 
         "FILE_NAME": "Dateiname", 
+        "MERGE": {
+            "TEST": "{{MIN_TAGS}} - {{MAX-TAGS}} tags recommended"
+        }, 
         "DETAILS": {
             "META_DATA_SUBHEADING": "Gib die Infos bitte auf {{language}} an.", 
             "HIGH_COMMISSION_WARNING": "(Bei {{min}} bis {{max}} verkaufen sich Designs am besten.)", 
